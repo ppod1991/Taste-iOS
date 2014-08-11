@@ -1,0 +1,472 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		134E033C199875BF00D47B25 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 134E033B199875BF00D47B25 /* Foundation.framework */; };
+		134E033E199875BF00D47B25 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 134E033D199875BF00D47B25 /* CoreGraphics.framework */; };
+		134E0340199875BF00D47B25 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 134E033F199875BF00D47B25 /* UIKit.framework */; };
+		134E0346199875BF00D47B25 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 134E0344199875BF00D47B25 /* InfoPlist.strings */; };
+		134E0348199875BF00D47B25 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 134E0347199875BF00D47B25 /* main.m */; };
+		134E034C199875BF00D47B25 /* TasteAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 134E034B199875BF00D47B25 /* TasteAppDelegate.m */; };
+		134E034F199875BF00D47B25 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 134E034D199875BF00D47B25 /* Main.storyboard */; };
+		134E0352199875BF00D47B25 /* TasteViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 134E0351199875BF00D47B25 /* TasteViewController.m */; };
+		134E0354199875BF00D47B25 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 134E0353199875BF00D47B25 /* Images.xcassets */; };
+		134E035B199875BF00D47B25 /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 134E035A199875BF00D47B25 /* XCTest.framework */; };
+		134E035C199875BF00D47B25 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 134E033B199875BF00D47B25 /* Foundation.framework */; };
+		134E035D199875BF00D47B25 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 134E033F199875BF00D47B25 /* UIKit.framework */; };
+		134E0365199875C000D47B25 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 134E0363199875C000D47B25 /* InfoPlist.strings */; };
+		134E0367199875C000D47B25 /* TasteTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 134E0366199875C000D47B25 /* TasteTests.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		134E035E199875C000D47B25 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 134E0330199875BF00D47B25 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 134E0337199875BF00D47B25;
+			remoteInfo = Taste;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		134E0338199875BF00D47B25 /* Taste.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Taste.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		134E033B199875BF00D47B25 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		134E033D199875BF00D47B25 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		134E033F199875BF00D47B25 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		134E0343199875BF00D47B25 /* Taste-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Taste-Info.plist"; sourceTree = "<group>"; };
+		134E0345199875BF00D47B25 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		134E0347199875BF00D47B25 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		134E0349199875BF00D47B25 /* Taste-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Taste-Prefix.pch"; sourceTree = "<group>"; };
+		134E034A199875BF00D47B25 /* TasteAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TasteAppDelegate.h; sourceTree = "<group>"; };
+		134E034B199875BF00D47B25 /* TasteAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TasteAppDelegate.m; sourceTree = "<group>"; };
+		134E034E199875BF00D47B25 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		134E0350199875BF00D47B25 /* TasteViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TasteViewController.h; sourceTree = "<group>"; };
+		134E0351199875BF00D47B25 /* TasteViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TasteViewController.m; sourceTree = "<group>"; };
+		134E0353199875BF00D47B25 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
+		134E0359199875BF00D47B25 /* TasteTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TasteTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		134E035A199875BF00D47B25 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
+		134E0362199875C000D47B25 /* TasteTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "TasteTests-Info.plist"; sourceTree = "<group>"; };
+		134E0364199875C000D47B25 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		134E0366199875C000D47B25 /* TasteTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TasteTests.m; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		134E0335199875BF00D47B25 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				134E033E199875BF00D47B25 /* CoreGraphics.framework in Frameworks */,
+				134E0340199875BF00D47B25 /* UIKit.framework in Frameworks */,
+				134E033C199875BF00D47B25 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		134E0356199875BF00D47B25 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				134E035B199875BF00D47B25 /* XCTest.framework in Frameworks */,
+				134E035D199875BF00D47B25 /* UIKit.framework in Frameworks */,
+				134E035C199875BF00D47B25 /* Foundation.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		134E032F199875BF00D47B25 = {
+			isa = PBXGroup;
+			children = (
+				134E0341199875BF00D47B25 /* Taste */,
+				134E0360199875C000D47B25 /* TasteTests */,
+				134E033A199875BF00D47B25 /* Frameworks */,
+				134E0339199875BF00D47B25 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		134E0339199875BF00D47B25 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				134E0338199875BF00D47B25 /* Taste.app */,
+				134E0359199875BF00D47B25 /* TasteTests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		134E033A199875BF00D47B25 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				134E033B199875BF00D47B25 /* Foundation.framework */,
+				134E033D199875BF00D47B25 /* CoreGraphics.framework */,
+				134E033F199875BF00D47B25 /* UIKit.framework */,
+				134E035A199875BF00D47B25 /* XCTest.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		134E0341199875BF00D47B25 /* Taste */ = {
+			isa = PBXGroup;
+			children = (
+				134E034A199875BF00D47B25 /* TasteAppDelegate.h */,
+				134E034B199875BF00D47B25 /* TasteAppDelegate.m */,
+				134E034D199875BF00D47B25 /* Main.storyboard */,
+				134E0350199875BF00D47B25 /* TasteViewController.h */,
+				134E0351199875BF00D47B25 /* TasteViewController.m */,
+				134E0353199875BF00D47B25 /* Images.xcassets */,
+				134E0342199875BF00D47B25 /* Supporting Files */,
+			);
+			path = Taste;
+			sourceTree = "<group>";
+		};
+		134E0342199875BF00D47B25 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				134E0343199875BF00D47B25 /* Taste-Info.plist */,
+				134E0344199875BF00D47B25 /* InfoPlist.strings */,
+				134E0347199875BF00D47B25 /* main.m */,
+				134E0349199875BF00D47B25 /* Taste-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		134E0360199875C000D47B25 /* TasteTests */ = {
+			isa = PBXGroup;
+			children = (
+				134E0366199875C000D47B25 /* TasteTests.m */,
+				134E0361199875C000D47B25 /* Supporting Files */,
+			);
+			path = TasteTests;
+			sourceTree = "<group>";
+		};
+		134E0361199875C000D47B25 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				134E0362199875C000D47B25 /* TasteTests-Info.plist */,
+				134E0363199875C000D47B25 /* InfoPlist.strings */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		134E0337199875BF00D47B25 /* Taste */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 134E036A199875C000D47B25 /* Build configuration list for PBXNativeTarget "Taste" */;
+			buildPhases = (
+				134E0334199875BF00D47B25 /* Sources */,
+				134E0335199875BF00D47B25 /* Frameworks */,
+				134E0336199875BF00D47B25 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Taste;
+			productName = Taste;
+			productReference = 134E0338199875BF00D47B25 /* Taste.app */;
+			productType = "com.apple.product-type.application";
+		};
+		134E0358199875BF00D47B25 /* TasteTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 134E036D199875C000D47B25 /* Build configuration list for PBXNativeTarget "TasteTests" */;
+			buildPhases = (
+				134E0355199875BF00D47B25 /* Sources */,
+				134E0356199875BF00D47B25 /* Frameworks */,
+				134E0357199875BF00D47B25 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				134E035F199875C000D47B25 /* PBXTargetDependency */,
+			);
+			name = TasteTests;
+			productName = TasteTests;
+			productReference = 134E0359199875BF00D47B25 /* TasteTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		134E0330199875BF00D47B25 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				CLASSPREFIX = Taste;
+				LastUpgradeCheck = 0510;
+				ORGANIZATIONNAME = "Piyush Poddar";
+				TargetAttributes = {
+					134E0358199875BF00D47B25 = {
+						TestTargetID = 134E0337199875BF00D47B25;
+					};
+				};
+			};
+			buildConfigurationList = 134E0333199875BF00D47B25 /* Build configuration list for PBXProject "Taste" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 134E032F199875BF00D47B25;
+			productRefGroup = 134E0339199875BF00D47B25 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				134E0337199875BF00D47B25 /* Taste */,
+				134E0358199875BF00D47B25 /* TasteTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		134E0336199875BF00D47B25 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				134E0354199875BF00D47B25 /* Images.xcassets in Resources */,
+				134E0346199875BF00D47B25 /* InfoPlist.strings in Resources */,
+				134E034F199875BF00D47B25 /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		134E0357199875BF00D47B25 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				134E0365199875C000D47B25 /* InfoPlist.strings in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		134E0334199875BF00D47B25 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				134E0352199875BF00D47B25 /* TasteViewController.m in Sources */,
+				134E034C199875BF00D47B25 /* TasteAppDelegate.m in Sources */,
+				134E0348199875BF00D47B25 /* main.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		134E0355199875BF00D47B25 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				134E0367199875C000D47B25 /* TasteTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		134E035F199875C000D47B25 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 134E0337199875BF00D47B25 /* Taste */;
+			targetProxy = 134E035E199875C000D47B25 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		134E0344199875BF00D47B25 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				134E0345199875BF00D47B25 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		134E034D199875BF00D47B25 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				134E034E199875BF00D47B25 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		134E0363199875C000D47B25 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				134E0364199875C000D47B25 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		134E0368199875C000D47B25 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		134E0369199875C000D47B25 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				ENABLE_NS_ASSERTIONS = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		134E036B199875C000D47B25 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Taste/Taste-Prefix.pch";
+				INFOPLIST_FILE = "Taste/Taste-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		134E036C199875C000D47B25 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Taste/Taste-Prefix.pch";
+				INFOPLIST_FILE = "Taste/Taste-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+		134E036E199875C000D47B25 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/Taste.app/Taste";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Taste/Taste-Prefix.pch";
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				INFOPLIST_FILE = "TasteTests/TasteTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Debug;
+		};
+		134E036F199875C000D47B25 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/Taste.app/Taste";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(inherited)",
+					"$(DEVELOPER_FRAMEWORKS_DIR)",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "Taste/Taste-Prefix.pch";
+				INFOPLIST_FILE = "TasteTests/TasteTests-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = xctest;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		134E0333199875BF00D47B25 /* Build configuration list for PBXProject "Taste" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				134E0368199875C000D47B25 /* Debug */,
+				134E0369199875C000D47B25 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		134E036A199875C000D47B25 /* Build configuration list for PBXNativeTarget "Taste" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				134E036B199875C000D47B25 /* Debug */,
+				134E036C199875C000D47B25 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+		134E036D199875C000D47B25 /* Build configuration list for PBXNativeTarget "TasteTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				134E036E199875C000D47B25 /* Debug */,
+				134E036F199875C000D47B25 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 134E0330199875BF00D47B25 /* Project object */;
+}
