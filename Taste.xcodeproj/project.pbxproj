@@ -7,6 +7,20 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		13051A3F19A5341D00DC8F6C /* Promotions.m in Sources */ = {isa = PBXBuildFile; fileRef = 13051A3E19A5341D00DC8F6C /* Promotions.m */; };
+		13051A4219A53AAE00DC8F6C /* Stores.m in Sources */ = {isa = PBXBuildFile; fileRef = 13051A4119A53AAE00DC8F6C /* Stores.m */; };
+		13051A4A19ABCD7D00DC8F6C /* OpenSans-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 13051A4419ABCD7D00DC8F6C /* OpenSans-Bold.ttf */; };
+		13051A4B19ABCD7D00DC8F6C /* OpenSans-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 13051A4419ABCD7D00DC8F6C /* OpenSans-Bold.ttf */; };
+		13051A4C19ABCD7D00DC8F6C /* OpenSans-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 13051A4519ABCD7D00DC8F6C /* OpenSans-ExtraBold.ttf */; };
+		13051A4D19ABCD7D00DC8F6C /* OpenSans-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 13051A4519ABCD7D00DC8F6C /* OpenSans-ExtraBold.ttf */; };
+		13051A4E19ABCD7D00DC8F6C /* OpenSans-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 13051A4619ABCD7D00DC8F6C /* OpenSans-Light.ttf */; };
+		13051A4F19ABCD7D00DC8F6C /* OpenSans-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 13051A4619ABCD7D00DC8F6C /* OpenSans-Light.ttf */; };
+		13051A5019ABCD7D00DC8F6C /* OpenSans-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 13051A4719ABCD7D00DC8F6C /* OpenSans-Regular.ttf */; };
+		13051A5119ABCD7D00DC8F6C /* OpenSans-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 13051A4719ABCD7D00DC8F6C /* OpenSans-Regular.ttf */; };
+		13051A5219ABCD7D00DC8F6C /* OpenSans-Semibold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 13051A4819ABCD7D00DC8F6C /* OpenSans-Semibold.ttf */; };
+		13051A5319ABCD7D00DC8F6C /* OpenSans-Semibold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 13051A4819ABCD7D00DC8F6C /* OpenSans-Semibold.ttf */; };
+		13051A5819ACE8E300DC8F6C /* StorePickerController.m in Sources */ = {isa = PBXBuildFile; fileRef = 13051A5719ACE8E300DC8F6C /* StorePickerController.m */; };
+		13051A5919ACE8E300DC8F6C /* StorePickerController.m in Sources */ = {isa = PBXBuildFile; fileRef = 13051A5719ACE8E300DC8F6C /* StorePickerController.m */; };
 		134E033C199875BF00D47B25 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 134E033B199875BF00D47B25 /* Foundation.framework */; };
 		134E033E199875BF00D47B25 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 134E033D199875BF00D47B25 /* CoreGraphics.framework */; };
 		134E0340199875BF00D47B25 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 134E033F199875BF00D47B25 /* UIKit.framework */; };
@@ -14,13 +28,29 @@
 		134E0348199875BF00D47B25 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 134E0347199875BF00D47B25 /* main.m */; };
 		134E034C199875BF00D47B25 /* TasteAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 134E034B199875BF00D47B25 /* TasteAppDelegate.m */; };
 		134E034F199875BF00D47B25 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 134E034D199875BF00D47B25 /* Main.storyboard */; };
-		134E0352199875BF00D47B25 /* TasteViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 134E0351199875BF00D47B25 /* TasteViewController.m */; };
 		134E0354199875BF00D47B25 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 134E0353199875BF00D47B25 /* Images.xcassets */; };
 		134E035B199875BF00D47B25 /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 134E035A199875BF00D47B25 /* XCTest.framework */; };
 		134E035C199875BF00D47B25 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 134E033B199875BF00D47B25 /* Foundation.framework */; };
 		134E035D199875BF00D47B25 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 134E033F199875BF00D47B25 /* UIKit.framework */; };
 		134E0365199875C000D47B25 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 134E0363199875C000D47B25 /* InfoPlist.strings */; };
 		134E0367199875C000D47B25 /* TasteTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 134E0366199875C000D47B25 /* TasteTests.m */; };
+		134E03751998767D00D47B25 /* PromotionsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 134E03741998767D00D47B25 /* PromotionsViewController.m */; };
+		134E03781999BABA00D47B25 /* PromotionViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 134E03771999BABA00D47B25 /* PromotionViewController.m */; };
+		134E037B199D4D6300D47B25 /* CameraViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 134E037A199D4D6300D47B25 /* CameraViewController.m */; };
+		134E037E19A2BE2F00D47B25 /* CodeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 134E037D19A2BE2F00D47B25 /* CodeViewController.m */; };
+		134E054419A3A35500D47B25 /* FacebookSDK.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 134E054319A3A35500D47B25 /* FacebookSDK.framework */; };
+		134E054719A3A41D00D47B25 /* loginViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 134E054619A3A41D00D47B25 /* loginViewController.m */; };
+		134E054D19A507CD00D47B25 /* Snap.m in Sources */ = {isa = PBXBuildFile; fileRef = 134E054C19A507CD00D47B25 /* Snap.m */; };
+		134E055019A5085C00D47B25 /* Store.m in Sources */ = {isa = PBXBuildFile; fileRef = 134E054F19A5085C00D47B25 /* Store.m */; };
+		134E055319A50CF400D47B25 /* User.m in Sources */ = {isa = PBXBuildFile; fileRef = 134E055219A50CF400D47B25 /* User.m */; };
+		134E055619A50DA100D47B25 /* Promotion.m in Sources */ = {isa = PBXBuildFile; fileRef = 134E055519A50DA100D47B25 /* Promotion.m */; };
+		13BA13DE19B0F83100AD6812 /* CoreData.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 13BA13DD19B0F83100AD6812 /* CoreData.framework */; };
+		13BA13E019B0F84100AD6812 /* SystemConfiguration.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 13BA13DF19B0F84100AD6812 /* SystemConfiguration.framework */; };
+		13BA13E219B0F85B00AD6812 /* libz.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 13BA13E119B0F85B00AD6812 /* libz.dylib */; };
+		13BA13E419B10DA600AD6812 /* libGoogleAnalyticsServices.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 13BA13E319B10DA600AD6812 /* libGoogleAnalyticsServices.a */; };
+		13BA13E519B10DA600AD6812 /* libGoogleAnalyticsServices.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 13BA13E319B10DA600AD6812 /* libGoogleAnalyticsServices.a */; };
+		13BA13EA19B110B700AD6812 /* libsqlite3.0.dylib in Frameworks */ = {isa = PBXBuildFile; fileRef = 13BA13E919B110B700AD6812 /* libsqlite3.0.dylib */; };
+		446B4A4271DF48F587F16340 /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 56C1274BD4804F139566CC02 /* libPods.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +64,17 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		13051A3D19A5341D00DC8F6C /* Promotions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Promotions.h; sourceTree = "<group>"; };
+		13051A3E19A5341D00DC8F6C /* Promotions.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Promotions.m; sourceTree = "<group>"; };
+		13051A4019A53AAE00DC8F6C /* Stores.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Stores.h; sourceTree = "<group>"; };
+		13051A4119A53AAE00DC8F6C /* Stores.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Stores.m; sourceTree = "<group>"; };
+		13051A4419ABCD7D00DC8F6C /* OpenSans-Bold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "OpenSans-Bold.ttf"; sourceTree = "<group>"; };
+		13051A4519ABCD7D00DC8F6C /* OpenSans-ExtraBold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "OpenSans-ExtraBold.ttf"; sourceTree = "<group>"; };
+		13051A4619ABCD7D00DC8F6C /* OpenSans-Light.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "OpenSans-Light.ttf"; sourceTree = "<group>"; };
+		13051A4719ABCD7D00DC8F6C /* OpenSans-Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "OpenSans-Regular.ttf"; sourceTree = "<group>"; };
+		13051A4819ABCD7D00DC8F6C /* OpenSans-Semibold.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "OpenSans-Semibold.ttf"; sourceTree = "<group>"; };
+		13051A5619ACE8E300DC8F6C /* StorePickerController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = StorePickerController.h; sourceTree = "<group>"; };
+		13051A5719ACE8E300DC8F6C /* StorePickerController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = StorePickerController.m; sourceTree = "<group>"; };
 		134E0338199875BF00D47B25 /* Taste.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Taste.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		134E033B199875BF00D47B25 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		134E033D199875BF00D47B25 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -45,14 +86,48 @@
 		134E034A199875BF00D47B25 /* TasteAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TasteAppDelegate.h; sourceTree = "<group>"; };
 		134E034B199875BF00D47B25 /* TasteAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TasteAppDelegate.m; sourceTree = "<group>"; };
 		134E034E199875BF00D47B25 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		134E0350199875BF00D47B25 /* TasteViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TasteViewController.h; sourceTree = "<group>"; };
-		134E0351199875BF00D47B25 /* TasteViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TasteViewController.m; sourceTree = "<group>"; };
 		134E0353199875BF00D47B25 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		134E0359199875BF00D47B25 /* TasteTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TasteTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		134E035A199875BF00D47B25 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
 		134E0362199875C000D47B25 /* TasteTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "TasteTests-Info.plist"; sourceTree = "<group>"; };
 		134E0364199875C000D47B25 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		134E0366199875C000D47B25 /* TasteTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TasteTests.m; sourceTree = "<group>"; };
+		134E03731998767D00D47B25 /* PromotionsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PromotionsViewController.h; sourceTree = "<group>"; };
+		134E03741998767D00D47B25 /* PromotionsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PromotionsViewController.m; sourceTree = "<group>"; };
+		134E03761999BABA00D47B25 /* PromotionViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PromotionViewController.h; sourceTree = "<group>"; };
+		134E03771999BABA00D47B25 /* PromotionViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PromotionViewController.m; sourceTree = "<group>"; };
+		134E0379199D4D6300D47B25 /* CameraViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CameraViewController.h; sourceTree = "<group>"; };
+		134E037A199D4D6300D47B25 /* CameraViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CameraViewController.m; sourceTree = "<group>"; };
+		134E037C19A2BE2F00D47B25 /* CodeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CodeViewController.h; sourceTree = "<group>"; };
+		134E037D19A2BE2F00D47B25 /* CodeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CodeViewController.m; sourceTree = "<group>"; };
+		134E054319A3A35500D47B25 /* FacebookSDK.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = FacebookSDK.framework; path = ../../FacebookSDK/FacebookSDK.framework; sourceTree = "<group>"; };
+		134E054519A3A41D00D47B25 /* loginViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = loginViewController.h; sourceTree = "<group>"; };
+		134E054619A3A41D00D47B25 /* loginViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = loginViewController.m; sourceTree = "<group>"; };
+		134E054B19A507CD00D47B25 /* Snap.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Snap.h; sourceTree = "<group>"; };
+		134E054C19A507CD00D47B25 /* Snap.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Snap.m; sourceTree = "<group>"; };
+		134E054E19A5085C00D47B25 /* Store.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Store.h; sourceTree = "<group>"; };
+		134E054F19A5085C00D47B25 /* Store.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Store.m; sourceTree = "<group>"; };
+		134E055119A50CF400D47B25 /* User.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = User.h; sourceTree = "<group>"; };
+		134E055219A50CF400D47B25 /* User.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = User.m; sourceTree = "<group>"; };
+		134E055419A50DA100D47B25 /* Promotion.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Promotion.h; sourceTree = "<group>"; };
+		134E055519A50DA100D47B25 /* Promotion.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Promotion.m; sourceTree = "<group>"; };
+		13BA13D019B0F7D300AD6812 /* GAI.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GAI.h; sourceTree = "<group>"; };
+		13BA13D119B0F7D300AD6812 /* GAIDictionaryBuilder.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GAIDictionaryBuilder.h; sourceTree = "<group>"; };
+		13BA13D219B0F7D300AD6812 /* GAIEcommerceFields.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GAIEcommerceFields.h; sourceTree = "<group>"; };
+		13BA13D319B0F7D300AD6812 /* GAIEcommerceProduct.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GAIEcommerceProduct.h; sourceTree = "<group>"; };
+		13BA13D419B0F7D300AD6812 /* GAIEcommerceProductAction.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GAIEcommerceProductAction.h; sourceTree = "<group>"; };
+		13BA13D519B0F7D300AD6812 /* GAIEcommercePromotion.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GAIEcommercePromotion.h; sourceTree = "<group>"; };
+		13BA13D619B0F7D300AD6812 /* GAIFields.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GAIFields.h; sourceTree = "<group>"; };
+		13BA13D719B0F7D300AD6812 /* GAILogger.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GAILogger.h; sourceTree = "<group>"; };
+		13BA13D819B0F7D300AD6812 /* GAITrackedViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GAITrackedViewController.h; sourceTree = "<group>"; };
+		13BA13D919B0F7D300AD6812 /* GAITracker.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GAITracker.h; sourceTree = "<group>"; };
+		13BA13DD19B0F83100AD6812 /* CoreData.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreData.framework; path = System/Library/Frameworks/CoreData.framework; sourceTree = SDKROOT; };
+		13BA13DF19B0F84100AD6812 /* SystemConfiguration.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SystemConfiguration.framework; path = System/Library/Frameworks/SystemConfiguration.framework; sourceTree = SDKROOT; };
+		13BA13E119B0F85B00AD6812 /* libz.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libz.dylib; path = usr/lib/libz.dylib; sourceTree = SDKROOT; };
+		13BA13E319B10DA600AD6812 /* libGoogleAnalyticsServices.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libGoogleAnalyticsServices.a; sourceTree = "<group>"; };
+		13BA13E919B110B700AD6812 /* libsqlite3.0.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libsqlite3.0.dylib; path = usr/lib/libsqlite3.0.dylib; sourceTree = SDKROOT; };
+		56C1274BD4804F139566CC02 /* libPods.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPods.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		A91C8B3A29514DA0900DD06A /* Pods.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.xcconfig; path = Pods/Pods.xcconfig; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,9 +135,16 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				13BA13EA19B110B700AD6812 /* libsqlite3.0.dylib in Frameworks */,
+				13BA13E219B0F85B00AD6812 /* libz.dylib in Frameworks */,
+				13BA13E019B0F84100AD6812 /* SystemConfiguration.framework in Frameworks */,
+				13BA13E419B10DA600AD6812 /* libGoogleAnalyticsServices.a in Frameworks */,
+				13BA13DE19B0F83100AD6812 /* CoreData.framework in Frameworks */,
 				134E033E199875BF00D47B25 /* CoreGraphics.framework in Frameworks */,
+				134E054419A3A35500D47B25 /* FacebookSDK.framework in Frameworks */,
 				134E0340199875BF00D47B25 /* UIKit.framework in Frameworks */,
 				134E033C199875BF00D47B25 /* Foundation.framework in Frameworks */,
+				446B4A4271DF48F587F16340 /* libPods.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -73,12 +155,25 @@
 				134E035B199875BF00D47B25 /* XCTest.framework in Frameworks */,
 				134E035D199875BF00D47B25 /* UIKit.framework in Frameworks */,
 				134E035C199875BF00D47B25 /* Foundation.framework in Frameworks */,
+				13BA13E519B10DA600AD6812 /* libGoogleAnalyticsServices.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		13051A4319ABCD6300DC8F6C /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				13051A4419ABCD7D00DC8F6C /* OpenSans-Bold.ttf */,
+				13051A4519ABCD7D00DC8F6C /* OpenSans-ExtraBold.ttf */,
+				13051A4619ABCD7D00DC8F6C /* OpenSans-Light.ttf */,
+				13051A4719ABCD7D00DC8F6C /* OpenSans-Regular.ttf */,
+				13051A4819ABCD7D00DC8F6C /* OpenSans-Semibold.ttf */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
 		134E032F199875BF00D47B25 = {
 			isa = PBXGroup;
 			children = (
@@ -86,6 +181,7 @@
 				134E0360199875C000D47B25 /* TasteTests */,
 				134E033A199875BF00D47B25 /* Frameworks */,
 				134E0339199875BF00D47B25 /* Products */,
+				A91C8B3A29514DA0900DD06A /* Pods.xcconfig */,
 			);
 			sourceTree = "<group>";
 		};
@@ -101,10 +197,17 @@
 		134E033A199875BF00D47B25 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				13BA13E919B110B700AD6812 /* libsqlite3.0.dylib */,
+				13BA13E319B10DA600AD6812 /* libGoogleAnalyticsServices.a */,
+				13BA13E119B0F85B00AD6812 /* libz.dylib */,
+				13BA13DF19B0F84100AD6812 /* SystemConfiguration.framework */,
+				13BA13DD19B0F83100AD6812 /* CoreData.framework */,
+				134E054319A3A35500D47B25 /* FacebookSDK.framework */,
 				134E033B199875BF00D47B25 /* Foundation.framework */,
 				134E033D199875BF00D47B25 /* CoreGraphics.framework */,
 				134E033F199875BF00D47B25 /* UIKit.framework */,
 				134E035A199875BF00D47B25 /* XCTest.framework */,
+				56C1274BD4804F139566CC02 /* libPods.a */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -112,12 +215,26 @@
 		134E0341199875BF00D47B25 /* Taste */ = {
 			isa = PBXGroup;
 			children = (
-				134E034A199875BF00D47B25 /* TasteAppDelegate.h */,
-				134E034B199875BF00D47B25 /* TasteAppDelegate.m */,
 				134E034D199875BF00D47B25 /* Main.storyboard */,
-				134E0350199875BF00D47B25 /* TasteViewController.h */,
-				134E0351199875BF00D47B25 /* TasteViewController.m */,
+				134E054619A3A41D00D47B25 /* loginViewController.m */,
+				134E03741998767D00D47B25 /* PromotionsViewController.m */,
+				134E03771999BABA00D47B25 /* PromotionViewController.m */,
+				134E037A199D4D6300D47B25 /* CameraViewController.m */,
+				13051A5719ACE8E300DC8F6C /* StorePickerController.m */,
+				134E037D19A2BE2F00D47B25 /* CodeViewController.m */,
+				134E054519A3A41D00D47B25 /* loginViewController.h */,
+				134E03731998767D00D47B25 /* PromotionsViewController.h */,
+				134E03761999BABA00D47B25 /* PromotionViewController.h */,
+				134E0379199D4D6300D47B25 /* CameraViewController.h */,
+				13051A5619ACE8E300DC8F6C /* StorePickerController.h */,
+				134E037C19A2BE2F00D47B25 /* CodeViewController.h */,
 				134E0353199875BF00D47B25 /* Images.xcassets */,
+				134E054B19A507CD00D47B25 /* Snap.h */,
+				13051A3D19A5341D00DC8F6C /* Promotions.h */,
+				134E055419A50DA100D47B25 /* Promotion.h */,
+				134E055119A50CF400D47B25 /* User.h */,
+				13051A4019A53AAE00DC8F6C /* Stores.h */,
+				134E054E19A5085C00D47B25 /* Store.h */,
 				134E0342199875BF00D47B25 /* Supporting Files */,
 			);
 			path = Taste;
@@ -126,6 +243,25 @@
 		134E0342199875BF00D47B25 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				134E034A199875BF00D47B25 /* TasteAppDelegate.h */,
+				134E034B199875BF00D47B25 /* TasteAppDelegate.m */,
+				13BA13D019B0F7D300AD6812 /* GAI.h */,
+				13BA13D119B0F7D300AD6812 /* GAIDictionaryBuilder.h */,
+				13BA13D219B0F7D300AD6812 /* GAIEcommerceFields.h */,
+				13BA13D319B0F7D300AD6812 /* GAIEcommerceProduct.h */,
+				13BA13D419B0F7D300AD6812 /* GAIEcommerceProductAction.h */,
+				13BA13D519B0F7D300AD6812 /* GAIEcommercePromotion.h */,
+				13BA13D619B0F7D300AD6812 /* GAIFields.h */,
+				13BA13D719B0F7D300AD6812 /* GAILogger.h */,
+				13BA13D819B0F7D300AD6812 /* GAITrackedViewController.h */,
+				13BA13D919B0F7D300AD6812 /* GAITracker.h */,
+				13051A4319ABCD6300DC8F6C /* Resources */,
+				134E054C19A507CD00D47B25 /* Snap.m */,
+				13051A3E19A5341D00DC8F6C /* Promotions.m */,
+				134E055519A50DA100D47B25 /* Promotion.m */,
+				134E055219A50CF400D47B25 /* User.m */,
+				13051A4119A53AAE00DC8F6C /* Stores.m */,
+				134E054F19A5085C00D47B25 /* Store.m */,
 				134E0343199875BF00D47B25 /* Taste-Info.plist */,
 				134E0344199875BF00D47B25 /* InfoPlist.strings */,
 				134E0347199875BF00D47B25 /* main.m */,
@@ -159,9 +295,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 134E036A199875C000D47B25 /* Build configuration list for PBXNativeTarget "Taste" */;
 			buildPhases = (
+				83070274E4F24984A9BAA3C4 /* Check Pods Manifest.lock */,
 				134E0334199875BF00D47B25 /* Sources */,
 				134E0335199875BF00D47B25 /* Frameworks */,
 				134E0336199875BF00D47B25 /* Resources */,
+				704DB7A47BE842BD8528EFFC /* Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -200,6 +338,9 @@
 				LastUpgradeCheck = 0510;
 				ORGANIZATIONNAME = "Piyush Poddar";
 				TargetAttributes = {
+					134E0337199875BF00D47B25 = {
+						DevelopmentTeam = T4G8X7S348;
+					};
 					134E0358199875BF00D47B25 = {
 						TestTargetID = 134E0337199875BF00D47B25;
 					};
@@ -212,6 +353,7 @@
 			knownRegions = (
 				en,
 				Base,
+				he,
 			);
 			mainGroup = 134E032F199875BF00D47B25;
 			productRefGroup = 134E0339199875BF00D47B25 /* Products */;
@@ -229,9 +371,14 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				13051A4E19ABCD7D00DC8F6C /* OpenSans-Light.ttf in Resources */,
 				134E0354199875BF00D47B25 /* Images.xcassets in Resources */,
 				134E0346199875BF00D47B25 /* InfoPlist.strings in Resources */,
+				13051A5019ABCD7D00DC8F6C /* OpenSans-Regular.ttf in Resources */,
+				13051A5219ABCD7D00DC8F6C /* OpenSans-Semibold.ttf in Resources */,
+				13051A4A19ABCD7D00DC8F6C /* OpenSans-Bold.ttf in Resources */,
 				134E034F199875BF00D47B25 /* Main.storyboard in Resources */,
+				13051A4C19ABCD7D00DC8F6C /* OpenSans-ExtraBold.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -239,20 +386,69 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				13051A5319ABCD7D00DC8F6C /* OpenSans-Semibold.ttf in Resources */,
+				13051A5119ABCD7D00DC8F6C /* OpenSans-Regular.ttf in Resources */,
+				13051A4B19ABCD7D00DC8F6C /* OpenSans-Bold.ttf in Resources */,
 				134E0365199875C000D47B25 /* InfoPlist.strings in Resources */,
+				13051A4F19ABCD7D00DC8F6C /* OpenSans-Light.ttf in Resources */,
+				13051A4D19ABCD7D00DC8F6C /* OpenSans-ExtraBold.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		704DB7A47BE842BD8528EFFC /* Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Pods-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		83070274E4F24984A9BAA3C4 /* Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		134E0334199875BF00D47B25 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				134E0352199875BF00D47B25 /* TasteViewController.m in Sources */,
+				134E054719A3A41D00D47B25 /* loginViewController.m in Sources */,
+				13051A3F19A5341D00DC8F6C /* Promotions.m in Sources */,
+				134E03781999BABA00D47B25 /* PromotionViewController.m in Sources */,
+				134E055019A5085C00D47B25 /* Store.m in Sources */,
 				134E034C199875BF00D47B25 /* TasteAppDelegate.m in Sources */,
+				134E037B199D4D6300D47B25 /* CameraViewController.m in Sources */,
+				134E055319A50CF400D47B25 /* User.m in Sources */,
+				13051A5819ACE8E300DC8F6C /* StorePickerController.m in Sources */,
+				134E03751998767D00D47B25 /* PromotionsViewController.m in Sources */,
+				134E054D19A507CD00D47B25 /* Snap.m in Sources */,
+				134E055619A50DA100D47B25 /* Promotion.m in Sources */,
 				134E0348199875BF00D47B25 /* main.m in Sources */,
+				13051A4219A53AAE00DC8F6C /* Stores.m in Sources */,
+				134E037E19A2BE2F00D47B25 /* CodeViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -261,6 +457,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				134E0367199875C000D47B25 /* TasteTests.m in Sources */,
+				13051A5919ACE8E300DC8F6C /* StorePickerController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -374,12 +571,21 @@
 		};
 		134E036B199875C000D47B25 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = A91C8B3A29514DA0900DD06A /* Pods.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					/Users/piyushpoddar/Documents/FacebookSDK,
+					/Users/piyushpoddar/Documents/FacebookSDK/FBAudienceNetwork,
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Taste/Taste-Prefix.pch";
 				INFOPLIST_FILE = "Taste/Taste-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				LIBRARY_SEARCH_PATHS = "/Users/piyushpoddar/Documents/Learning\\ Swift/Taste";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -387,12 +593,21 @@
 		};
 		134E036C199875C000D47B25 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = A91C8B3A29514DA0900DD06A /* Pods.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					/Users/piyushpoddar/Documents/FacebookSDK,
+					/Users/piyushpoddar/Documents/FacebookSDK/FBAudienceNetwork,
+				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Taste/Taste-Prefix.pch";
 				INFOPLIST_FILE = "Taste/Taste-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				LIBRARY_SEARCH_PATHS = "/Users/piyushpoddar/Documents/Learning\\ Swift/Taste";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -414,6 +629,10 @@
 					"$(inherited)",
 				);
 				INFOPLIST_FILE = "TasteTests/TasteTests-Info.plist";
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_HOST = "$(BUNDLE_LOADER)";
 				WRAPPER_EXTENSION = xctest;
@@ -432,6 +651,10 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Taste/Taste-Prefix.pch";
 				INFOPLIST_FILE = "TasteTests/TasteTests-Info.plist";
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"$(PROJECT_DIR)",
+				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_HOST = "$(BUNDLE_LOADER)";
 				WRAPPER_EXTENSION = xctest;
@@ -457,6 +680,7 @@
 				134E036C199875C000D47B25 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		134E036D199875C000D47B25 /* Build configuration list for PBXNativeTarget "TasteTests" */ = {
 			isa = XCConfigurationList;
@@ -465,6 +689,7 @@
 				134E036F199875C000D47B25 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
