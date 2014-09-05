@@ -23,6 +23,7 @@
 @property (weak, nonatomic) IBOutlet UIButton *shareButton;
 @property (strong, nonatomic) IBOutlet UIButton *whereOutlet;
 @property (strong, nonatomic) UIImage *imageBeforeEdits;
+@property (strong, nonatomic) IBOutlet UILabel *selectedStoreField;
 
 @end
 
@@ -154,6 +155,7 @@
     if ([segue.identifier isEqualToString:@"PickStoreToCamera"]) {
         if ([segue.sourceViewController isKindOfClass:[StorePickerController class]]) {
             
+            self.selectedStoreField.text = self.selectedStore.store_name;
             NSString *textToDraw = [NSString stringWithFormat:@"#%@  #%@",self.selectedStore.hashtag_text,self.selectedStore.hashtag_location];
             [self drawText:textToDraw inImage:self.imageBeforeEdits];
         }
@@ -202,6 +204,7 @@
     
     self.whereOutlet.titleLabel.font = [UIFont fontWithName:@"OpenSans-Light" size:17.0];
     self.messageTextField.font = [UIFont fontWithName:@"OpenSans-Light" size:15.0];
+    self.selectedStoreField.font = [UIFont fontWithName:@"OpenSans-Light" size:15.0];
     
     UIImagePickerController *uiipc = [[UIImagePickerController alloc] init];
     uiipc.delegate = self;
@@ -295,6 +298,7 @@
         dispatch_async(dispatch_get_main_queue(), ^{
             __strong typeof(weakSelf) strongSelf = weakSelf;
             if (strongSelf) {
+                [strongSelf setImageForImageView:nil];
                 [strongSelf setImageForImageView: editedImage];
             }
             

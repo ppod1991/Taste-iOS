@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>62B3BA36-8A2D-4DCA-BF85-B96084AAD7A1</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Taste</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E002D474-7DA0-4153-9154-35EECC8A0E35</key>
+		<string>https://github.com/ppod1991/Taste-iOS</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Taste.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E002D474-7DA0-4153-9154-35EECC8A0E35</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/ppod1991/Taste-iOS</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E002D474-7DA0-4153-9154-35EECC8A0E35</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E002D474-7DA0-4153-9154-35EECC8A0E35</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Taste</string>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,1201 @@
+TTaste
+v6
+r1
+cCheck dependencies
+cPhaseScriptExecution Check\ Pods\ Manifest.lock /Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Script-83070274E4F24984A9BAA3C4.sh
+cProcessPCH /var/folders/rd/pn8l524d78753shlh5rkkn140000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Taste-Prefix-clvkclpzcwacorectvetqtphwcpl/Taste-Prefix.pch.pch Taste/Taste-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/loginViewController.o /Users/piyushpoddar/Documents/Learning\ Swift/Taste/Taste/loginViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/Promotions.o /Users/piyushpoddar/Documents/Learning\ Swift/Taste/Taste/Promotions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/PromotionViewController.o /Users/piyushpoddar/Documents/Learning\ Swift/Taste/Taste/PromotionViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/Store.o /Users/piyushpoddar/Documents/Learning\ Swift/Taste/Taste/Store.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/TasteAppDelegate.o /Users/piyushpoddar/Documents/Learning\ Swift/Taste/Taste/TasteAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/CameraViewController.o /Users/piyushpoddar/Documents/Learning\ Swift/Taste/Taste/CameraViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/User.o /Users/piyushpoddar/Documents/Learning\ Swift/Taste/Taste/User.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/StorePickerController.o /Users/piyushpoddar/Documents/Learning\ Swift/Taste/Taste/StorePickerController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/PromotionsViewController.o /Users/piyushpoddar/Documents/Learning\ Swift/Taste/Taste/PromotionsViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/Snap.o /Users/piyushpoddar/Documents/Learning\ Swift/Taste/Taste/Snap.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/Promotion.o /Users/piyushpoddar/Documents/Learning\ Swift/Taste/Taste/Promotion.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/main.o /Users/piyushpoddar/Documents/Learning\ Swift/Taste/Taste/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/Stores.o /Users/piyushpoddar/Documents/Learning\ Swift/Taste/Taste/Stores.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/CodeViewController.o /Users/piyushpoddar/Documents/Learning\ Swift/Taste/Taste/CodeViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Release-iphonesimulator/Taste.app/Taste normal i386
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk
+c0000000053119F8A0000000000000198
+t1393663882
+s408
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/SDKSettings.plist
+c0000000053E83BF400000000000003B4
+t1407728628
+s948
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/CoreServices/SystemVersion.plist
+c0000000053E83C0A000000000000019E
+t1407728650
+s414
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c0000000053E83C1100000000006CED60
+t1407728657
+s7138656
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c0000000053E83C110000000000446820
+t1407728657
+s4483104
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c0000000053E83C14000000000088D8C0
+t1407728660
+s8968384
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/SystemConfiguration.framework/SystemConfiguration
+c0000000053E83C1C00000000001081C0
+t1407728668
+s1081792
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c0000000053E83C1F0000000001F1DE10
+t1407728671
+s32628240
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libsqlite3.0.dylib
+c0000000053E83C5400000000001D35B0
+t1407728724
+s1914288
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk/usr/lib/libz.dylib
+c0000000053E83C54000000000002B700
+t1407728724
+s177920
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/include/module.map
+c0000000053E83CA60000000000000ADC
+t1407728806
+s2780
+
+N/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/FacebookSDK
+c0000000053E27AB50000000001C451EC
+t1407351477
+s29643244
+
+N/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBAccessTokenData.h
+c0000000053E27AB50000000000002133
+t1407351477
+s8499
+
+N/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBAppCall.h
+c0000000053E27AB500000000000023C5
+t1407351477
+s9157
+
+N/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBAppEvents.h
+c0000000053E27AB500000000000052B6
+t1407351477
+s21174
+
+N/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBAppLinkData.h
+c0000000053E27AB500000000000006DA
+t1407351477
+s1754
+
+N/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBCacheDescriptor.h
+c0000000053E27AB5000000000000055C
+t1407351477
+s1372
+
+N/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBDialogs.h
+c0000000053E27AB5000000000000C65F
+t1407351477
+s50783
+
+N/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBDialogsData.h
+c0000000053E27AB50000000000000538
+t1407351477
+s1336
+
+N/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBDialogsParams.h
+c0000000053E27AB500000000000003B9
+t1407351477
+s953
+
+N/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBError.h
+c0000000053E27AB500000000000038E7
+t1407351477
+s14567
+
+N/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBErrorUtility.h
+c0000000053E27AB50000000000000C0D
+t1407351477
+s3085
+
+N/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBFrictionlessRecipientCache.h
+c0000000053E27AB50000000000000B3D
+t1407351477
+s2877
+
+N/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBFriendPickerViewController.h
+c0000000053E27AB5000000000000184A
+t1407351477
+s6218
+
+N/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBGraphLocation.h
+c0000000053E27AB5000000000000075F
+t1407351477
+s1887
+
+N/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBGraphObject.h
+c0000000053E27AB50000000000002B41
+t1407351477
+s11073
+
+N/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBGraphObjectPickerViewController.h
+c0000000053E27AB50000000000001352
+t1407351477
+s4946
+
+N/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBGraphPerson.h
+c0000000053E27AB5000000000000078E
+t1407351477
+s1934
+
+N/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBGraphPlace.h
+c0000000053E27AB5000000000000078E
+t1407351477
+s1934
+
+N/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBGraphUser.h
+c0000000053E27AB500000000000006C9
+t1407351477
+s1737
+
+N/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBInsights.h
+c0000000053E27AB50000000000000A9F
+t1407351477
+s2719
+
+N/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBLikeControl.h
+c0000000053E27AB50000000000001437
+t1407351477
+s5175
+
+N/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBLinkShareParams.h
+c0000000053E27AB50000000000000C19
+t1407351477
+s3097
+
+N/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBLoginView.h
+c0000000053E27AB50000000000001C61
+t1407351477
+s7265
+
+N/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBNativeDialogs.h
+c0000000053E27AB50000000000000F98
+t1407351477
+s3992
+
+N/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBOpenGraphAction.h
+c0000000053E27AB50000000000000DC0
+t1407351477
+s3520
+
+N/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBOpenGraphActionParams.h
+c0000000053E27AB5000000000000083E
+t1407351477
+s2110
+
+N/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBOpenGraphActionShareDialogParams.h
+c0000000053E27AB5000000000000037D
+t1407351477
+s893
+
+N/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBOpenGraphObject.h
+c0000000053E27AB50000000000000ACF
+t1407351477
+s2767
+
+N/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBPeoplePickerViewController.h
+c0000000053E27AB50000000000000BDA
+t1407351477
+s3034
+
+N/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBPhotoParams.h
+c0000000053E27AB5000000000000070C
+t1407351477
+s1804
+
+N/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBPlacePickerViewController.h
+c0000000053E27AB50000000000001975
+t1407351477
+s6517
+
+N/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBProfilePictureView.h
+c0000000053E27AB500000000000009A7
+t1407351477
+s2471
+
+N/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBRequest.h
+c0000000053E27AB50000000000005EA1
+t1407351477
+s24225
+
+N/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBRequestConnection.h
+c0000000053E27AB50000000000007AE2
+t1407351477
+s31458
+
+N/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBSDKMacros.h
+c0000000053E27AB50000000000000353
+t1407351477
+s851
+
+N/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBSession.h
+c0000000053E27AB5000000000000966B
+t1407351477
+s38507
+
+N/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBSessionTokenCachingStrategy.h
+c0000000053E27AB50000000000001BBA
+t1407351477
+s7098
+
+N/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBSettings.h
+c0000000053E27AB500000000000023A1
+t1407351477
+s9121
+
+N/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBShareDialogParams.h
+c0000000053E27AB5000000000000034D
+t1407351477
+s845
+
+N/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBShareDialogPhotoParams.h
+c0000000053E27AB5000000000000034A
+t1407351477
+s842
+
+N/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBTaggableFriendPickerViewController.h
+c0000000053E27AB50000000000000698
+t1407351477
+s1688
+
+N/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBTooltipView.h
+c0000000053E27AB500000000000010BD
+t1407351477
+s4285
+
+N/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBUserSettingsViewController.h
+c0000000053E27AB50000000000001006
+t1407351477
+s4102
+
+N/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBViewController.h
+c0000000053E27AB50000000000000F64
+t1407351477
+s3940
+
+N/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBWebDialogs.h
+c0000000053E27AB500000000000023AA
+t1407351477
+s9130
+
+N/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FacebookSDK.h
+c0000000053E27AB500000000000016EB
+t1407351477
+s5867
+
+N/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/NSError+FBError.h
+c0000000053E27AB50000000000000BA0
+t1407351477
+s2976
+
+N/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/CameraViewController.h
+c000000005400D51B0000000000000182
+t1409340699
+s386
+
+N/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/CameraViewController.m
+c000000005404BEA40000000000004800
+t1409597092
+s18432
+
+N/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/CodeViewController.h
+c000000005400D51B000000000000018E
+t1409340699
+s398
+
+N/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/CodeViewController.m
+c000000005400D51B0000000000001407
+t1409340699
+s5127
+
+N/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/GAI.h
+c0000000053D9188A0000000000001BEF
+t1406736522
+s7151
+
+N/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/GAIDictionaryBuilder.h
+c0000000053D9188A0000000000001F55
+t1406736522
+s8021
+
+N/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/GAIEcommerceProduct.h
+c0000000053D9188A0000000000000CB6
+t1406736522
+s3254
+
+N/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/GAIEcommerceProductAction.h
+c0000000053D9188A0000000000000E63
+t1406736522
+s3683
+
+N/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/GAIEcommercePromotion.h
+c0000000053D9188A0000000000000659
+t1406736522
+s1625
+
+N/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/GAIFields.h
+c0000000053D9188A0000000000001068
+t1406736522
+s4200
+
+N/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/GAILogger.h
+c0000000053D9188A000000000000045D
+t1406736522
+s1117
+
+N/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/GAITrackedViewController.h
+c0000000053D9188A000000000000040D
+t1406736522
+s1037
+
+N/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/GAITracker.h
+c0000000053D9188A00000000000005FE
+t1406736522
+s1534
+
+N/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/Promotion.h
+c0000000053F4FF3E000000000000024D
+t1408565054
+s589
+
+N/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/Promotion.m
+c0000000053F4DE550000000000000107
+t1408556629
+s263
+
+N/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/PromotionViewController.h
+c000000005400D51B000000000000029F
+t1409340699
+s671
+
+N/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/PromotionViewController.m
+c000000005400E57C00000000000017A7
+t1409344892
+s6055
+
+N/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/Promotions.h
+c0000000053F501CE000000000000011E
+t1408565710
+s286
+
+N/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/Promotions.m
+c0000000053F50567000000000000010A
+t1408566631
+s266
+
+N/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/PromotionsViewController.h
+c000000005400D51B000000000000021C
+t1409340699
+s540
+
+N/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/PromotionsViewController.m
+c000000005404BCB40000000000001C7E
+t1409596596
+s7294
+
+N/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/Snap.h
+c0000000053F630B30000000000000292
+t1408643251
+s658
+
+N/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/Snap.m
+c0000000053F7818600000000000004D7
+t1408729478
+s1239
+
+N/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/Store.h
+c0000000053F505C40000000000000272
+t1408566724
+s626
+
+N/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/Store.m
+c0000000053F4DE5500000000000000FC
+t1408556629
+s252
+
+N/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/StorePickerController.h
+c000000005400D51B0000000000000190
+t1409340699
+s400
+
+N/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/StorePickerController.m
+c000000005400E57C0000000000000FC8
+t1409344892
+s4040
+
+N/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/Stores.h
+c0000000053F50566000000000000010B
+t1408566630
+s267
+
+N/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/Stores.m
+c0000000053F5056600000000000000FD
+t1408566630
+s253
+
+N/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/Taste-Prefix.pch
+c000000005400D51B000000000000017E
+t1409340699
+s382
+
+N/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/TasteAppDelegate.h
+c0000000053F3BAA60000000000000262
+t1408481958
+s610
+
+N/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/TasteAppDelegate.m
+c000000005400E40700000000000046A0
+t1409344519
+s18080
+
+N/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/User.h
+c0000000053F4D5F70000000000000280
+t1408554487
+s640
+
+N/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/User.m
+c0000000053F4DE5500000000000000F7
+t1408556629
+s247
+
+N/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/loginViewController.h
+c000000005400D51B00000000000001DD
+t1409340699
+s477
+
+N/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/loginViewController.m
+c000000005400D51B00000000000018EF
+t1409340699
+s6383
+
+N/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/main.m
+c0000000053E83E3F000000000000015D
+t1407729215
+s349
+
+N/Users/piyushpoddar/Documents/Learning Swift/Taste/build/Release-iphonesimulator/Taste.app/Taste
+t2
+s0
+
+N/Users/piyushpoddar/Documents/Learning Swift/Taste/build/Release-iphonesimulator/libPods.a
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/piyushpoddar/Documents/Learning Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/CameraViewController.o
+t1409598097
+s112696
+
+N/Users/piyushpoddar/Documents/Learning Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/CodeViewController.o
+t1409598097
+s79980
+
+N/Users/piyushpoddar/Documents/Learning Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/Promotion.o
+t1409598097
+s13832
+
+N/Users/piyushpoddar/Documents/Learning Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/PromotionViewController.o
+t1409598096
+s80172
+
+N/Users/piyushpoddar/Documents/Learning Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/Promotions.o
+t1409598096
+s7260
+
+N/Users/piyushpoddar/Documents/Learning Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/PromotionsViewController.o
+t1409598097
+s93232
+
+N/Users/piyushpoddar/Documents/Learning Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/Snap.o
+t1409598097
+s27556
+
+N/Users/piyushpoddar/Documents/Learning Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/Store.o
+t1409598096
+s13856
+
+N/Users/piyushpoddar/Documents/Learning Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/StorePickerController.o
+t1409598097
+s83464
+
+N/Users/piyushpoddar/Documents/Learning Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/Stores.o
+t1409598097
+s7120
+
+N/Users/piyushpoddar/Documents/Learning Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/Taste.LinkFileList
+c000000005404C28D00000000000007B7
+t1409598093
+s1975
+
+N/Users/piyushpoddar/Documents/Learning Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/TasteAppDelegate.o
+t1409598096
+s112512
+
+N/Users/piyushpoddar/Documents/Learning Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/User.o
+t1409598096
+s15584
+
+N/Users/piyushpoddar/Documents/Learning Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/loginViewController.o
+t1409598096
+s66856
+
+N/Users/piyushpoddar/Documents/Learning Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/main.o
+t1409598097
+s3720
+
+N/Users/piyushpoddar/Documents/Learning Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Script-83070274E4F24984A9BAA3C4.sh
+c000000005404C28D0000000000000103
+t1409598093
+s259
+
+N/Users/piyushpoddar/Documents/Learning Swift/Taste/libGoogleAnalyticsServices.a
+c0000000053D9188A0000000000AE163C
+t1406736522
+s11408956
+
+N/var/folders/rd/pn8l524d78753shlh5rkkn140000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Taste-Prefix-clvkclpzcwacorectvetqtphwcpl/Taste-Prefix.pch.pch
+t1409598095
+s137988
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependenciesfb74cc14fdb4b941^cd052615fdb4b941^---0#1#1#--18"Check dependencies36"012D30BE-A90D-4DEA-ACE4-D93D075BC13F-
+
+CCompileAssetCatalog /Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Release-iphonesimulator/Taste.app /Users/piyushpoddar/Documents/Learning\ Swift/Taste/Taste/Images.xcassets
+r0
+
+CCompileC build/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/CameraViewController.o /Users/piyushpoddar/Documents/Learning\ Swift/Taste/Taste/CameraViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s431290896.742962
+e431290897.158492
+r1
+xCompileC
+xbuild/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/CameraViewController.o
+x/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/CameraViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/CameraViewController.m
+d/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/CameraViewController.h
+d/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/Snap.h
+d/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/Store.h
+d/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/User.h
+d/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/Promotion.h
+d/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/Stores.h
+d/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/CodeViewController.h
+d/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/StorePickerController.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FacebookSDK.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBAccessTokenData.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBSession.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBSDKMacros.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBAppCall.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBAppLinkData.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBDialogsData.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBAppEvents.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBCacheDescriptor.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBDialogs.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBLinkShareParams.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBDialogsParams.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBOpenGraphActionParams.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBOpenGraphAction.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBGraphObject.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBPhotoParams.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBError.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBErrorUtility.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBFrictionlessRecipientCache.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBRequest.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBOpenGraphObject.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBRequestConnection.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBWebDialogs.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBFriendPickerViewController.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBGraphUser.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBGraphPerson.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBGraphPlace.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBGraphLocation.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBPeoplePickerViewController.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBGraphObjectPickerViewController.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBViewController.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBInsights.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBLikeControl.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBLoginView.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBTooltipView.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBNativeDialogs.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBOpenGraphActionShareDialogParams.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBShareDialogParams.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBPlacePickerViewController.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBProfilePictureView.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBSessionTokenCachingStrategy.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBSettings.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBShareDialogPhotoParams.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBTaggableFriendPickerViewController.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBUserSettingsViewController.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/NSError+FBError.h
+d/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/GAIDictionaryBuilder.h
+d/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/GAIEcommerceProduct.h
+d/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/GAIEcommerceProductAction.h
+d/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/GAIEcommercePromotion.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection87"Compile /Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/CameraViewController.m218"[1mCompileC[0m build/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/CameraViewController.o [1mTaste/CameraViewController.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerf777be10fab4b941^7bd72811fab4b941^---0#0#1#-19%DVTDocumentLocation2@88"file:///Users/piyushpoddar/Documents/Learning%20Swift/Taste/Taste/CameraViewController.m0000000000000000^4225"[1mCompileC[0m build/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/CameraViewController.o [1mTaste/CameraViewController.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/piyushpoddar/Documents/Learning Swift/Taste"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DCOCOAPODS=1 -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Taste-generated-files.hmap -I/Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Taste-own-target-headers.hmap -I/Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Taste-all-target-headers.hmap -iquote /Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Taste-project-headers.hmap -I/Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Release-iphonesimulator/include -I/Users/piyushpoddar/Documents/Learning\ Swift/Taste/Pods/Headers -I/Users/piyushpoddar/Documents/Learning\ Swift/Taste/Pods/Headers/AFNetworking -I/Users/piyushpoddar/Documents/Learning\ Swift/Taste/Pods/Headers/JSONModel -I/Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/DerivedSources/i386 -I/Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/DerivedSources -F/Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Release-iphonesimulator -F/Users/piyushpoddar/Documents/FacebookSDK -F/Users/piyushpoddar/Documents/FacebookSDK/FBAudienceNetwork -isystem /Users/piyushpoddar/Documents/Learning\ Swift/Taste/Pods/Headers -isystem /Users/piyushpoddar/Documents/Learning\ Swift/Taste/Pods/Headers/AFNetworking -isystem /Users/piyushpoddar/Documents/Learning\ Swift/Taste/Pods/Headers/JSONModel -include /var/folders/rd/pn8l524d78753shlh5rkkn140000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Taste-Prefix-clvkclpzcwacorectvetqtphwcpl/Taste-Prefix.pch -MMD -MT dependencies -MF /Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/CameraViewController.d --serialize-diagnostics /Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/CameraViewController.dia -c /Users/piyushpoddar/Documents/Learning\ Swift/Taste/Taste/CameraViewController.m -o /Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/CameraViewController.o36"8588AD66-F5D2-4FC4-8E8B-FFB89D9FFBC3-
+bB3B08BA1-AB34-4012-BA0B-BB4779A13BA5
+
+CCompileC build/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/CodeViewController.o /Users/piyushpoddar/Documents/Learning\ Swift/Taste/Taste/CodeViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s431290897.422691
+e431290897.699070
+r1
+xCompileC
+xbuild/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/CodeViewController.o
+x/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/CodeViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/CodeViewController.m
+d/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/CodeViewController.h
+d/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/Snap.h
+d/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/Store.h
+d/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/User.h
+d/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/Promotion.h
+d/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/PromotionsViewController.h
+d/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/Promotions.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FacebookSDK.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBAccessTokenData.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBSession.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBSDKMacros.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBAppCall.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBAppLinkData.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBDialogsData.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBAppEvents.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBCacheDescriptor.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBDialogs.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBLinkShareParams.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBDialogsParams.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBOpenGraphActionParams.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBOpenGraphAction.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBGraphObject.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBPhotoParams.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBError.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBErrorUtility.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBFrictionlessRecipientCache.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBRequest.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBOpenGraphObject.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBRequestConnection.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBWebDialogs.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBFriendPickerViewController.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBGraphUser.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBGraphPerson.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBGraphPlace.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBGraphLocation.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBPeoplePickerViewController.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBGraphObjectPickerViewController.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBViewController.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBInsights.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBLikeControl.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBLoginView.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBTooltipView.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBNativeDialogs.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBOpenGraphActionShareDialogParams.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBShareDialogParams.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBPlacePickerViewController.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBProfilePictureView.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBSessionTokenCachingStrategy.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBSettings.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBShareDialogPhotoParams.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBTaggableFriendPickerViewController.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBUserSettingsViewController.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/NSError+FBError.h
+d/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/GAIDictionaryBuilder.h
+d/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/GAIEcommerceProduct.h
+d/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/GAIEcommerceProductAction.h
+d/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/GAIEcommercePromotion.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection85"Compile /Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/CodeViewController.m214"[1mCompileC[0m build/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/CodeViewController.o [1mTaste/CodeViewController.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler0e656c11fab4b941^d7f6b211fab4b941^---0#0#1#-19%DVTDocumentLocation2@86"file:///Users/piyushpoddar/Documents/Learning%20Swift/Taste/Taste/CodeViewController.m0000000000000000^4213"[1mCompileC[0m build/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/CodeViewController.o [1mTaste/CodeViewController.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/piyushpoddar/Documents/Learning Swift/Taste"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DCOCOAPODS=1 -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Taste-generated-files.hmap -I/Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Taste-own-target-headers.hmap -I/Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Taste-all-target-headers.hmap -iquote /Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Taste-project-headers.hmap -I/Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Release-iphonesimulator/include -I/Users/piyushpoddar/Documents/Learning\ Swift/Taste/Pods/Headers -I/Users/piyushpoddar/Documents/Learning\ Swift/Taste/Pods/Headers/AFNetworking -I/Users/piyushpoddar/Documents/Learning\ Swift/Taste/Pods/Headers/JSONModel -I/Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/DerivedSources/i386 -I/Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/DerivedSources -F/Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Release-iphonesimulator -F/Users/piyushpoddar/Documents/FacebookSDK -F/Users/piyushpoddar/Documents/FacebookSDK/FBAudienceNetwork -isystem /Users/piyushpoddar/Documents/Learning\ Swift/Taste/Pods/Headers -isystem /Users/piyushpoddar/Documents/Learning\ Swift/Taste/Pods/Headers/AFNetworking -isystem /Users/piyushpoddar/Documents/Learning\ Swift/Taste/Pods/Headers/JSONModel -include /var/folders/rd/pn8l524d78753shlh5rkkn140000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Taste-Prefix-clvkclpzcwacorectvetqtphwcpl/Taste-Prefix.pch -MMD -MT dependencies -MF /Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/CodeViewController.d --serialize-diagnostics /Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/CodeViewController.dia -c /Users/piyushpoddar/Documents/Learning\ Swift/Taste/Taste/CodeViewController.m -o /Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/CodeViewController.o36"6A2A7323-2127-470E-B16C-3136E002C7E7-
+bB3B08BA1-AB34-4012-BA0B-BB4779A13BA5
+
+CCompileC build/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/Promotion.o /Users/piyushpoddar/Documents/Learning\ Swift/Taste/Taste/Promotion.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s431290897.287623
+e431290897.359193
+r1
+xCompileC
+xbuild/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/Promotion.o
+x/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/Promotion.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/Promotion.m
+d/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/Promotion.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection76"Compile /Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/Promotion.m196"[1mCompileC[0m build/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/Promotion.o [1mTaste/Promotion.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler85cc4911fab4b941^c7f55b11fab4b941^---0#0#1#-19%DVTDocumentLocation2@77"file:///Users/piyushpoddar/Documents/Learning%20Swift/Taste/Taste/Promotion.m0000000000000000^4159"[1mCompileC[0m build/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/Promotion.o [1mTaste/Promotion.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/piyushpoddar/Documents/Learning Swift/Taste"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DCOCOAPODS=1 -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Taste-generated-files.hmap -I/Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Taste-own-target-headers.hmap -I/Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Taste-all-target-headers.hmap -iquote /Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Taste-project-headers.hmap -I/Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Release-iphonesimulator/include -I/Users/piyushpoddar/Documents/Learning\ Swift/Taste/Pods/Headers -I/Users/piyushpoddar/Documents/Learning\ Swift/Taste/Pods/Headers/AFNetworking -I/Users/piyushpoddar/Documents/Learning\ Swift/Taste/Pods/Headers/JSONModel -I/Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/DerivedSources/i386 -I/Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/DerivedSources -F/Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Release-iphonesimulator -F/Users/piyushpoddar/Documents/FacebookSDK -F/Users/piyushpoddar/Documents/FacebookSDK/FBAudienceNetwork -isystem /Users/piyushpoddar/Documents/Learning\ Swift/Taste/Pods/Headers -isystem /Users/piyushpoddar/Documents/Learning\ Swift/Taste/Pods/Headers/AFNetworking -isystem /Users/piyushpoddar/Documents/Learning\ Swift/Taste/Pods/Headers/JSONModel -include /var/folders/rd/pn8l524d78753shlh5rkkn140000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Taste-Prefix-clvkclpzcwacorectvetqtphwcpl/Taste-Prefix.pch -MMD -MT dependencies -MF /Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/Promotion.d --serialize-diagnostics /Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/Promotion.dia -c /Users/piyushpoddar/Documents/Learning\ Swift/Taste/Taste/Promotion.m -o /Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/Promotion.o36"A3E747A5-2AB2-43A8-A4F7-23FBAECB55CC-
+bB3B08BA1-AB34-4012-BA0B-BB4779A13BA5
+
+CCompileC build/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/PromotionViewController.o /Users/piyushpoddar/Documents/Learning\ Swift/Taste/Taste/PromotionViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s431290895.893415
+e431290896.682506
+r1
+xCompileC
+xbuild/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/PromotionViewController.o
+x/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/PromotionViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/PromotionViewController.m
+d/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/PromotionViewController.h
+d/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/Promotion.h
+d/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/PromotionsViewController.h
+d/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/Snap.h
+d/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/Store.h
+d/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/User.h
+d/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/Promotions.h
+d/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/GAIDictionaryBuilder.h
+d/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/GAIEcommerceProduct.h
+d/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/GAIEcommerceProductAction.h
+d/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/GAIEcommercePromotion.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection90"Compile /Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/PromotionViewController.m224"[1mCompileC[0m build/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/PromotionViewController.o [1mTaste/PromotionViewController.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler7ff9e40ffab4b941^ee08af10fab4b941^---0#0#1#-19%DVTDocumentLocation2@91"file:///Users/piyushpoddar/Documents/Learning%20Swift/Taste/Taste/PromotionViewController.m0000000000000000^4243"[1mCompileC[0m build/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/PromotionViewController.o [1mTaste/PromotionViewController.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/piyushpoddar/Documents/Learning Swift/Taste"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DCOCOAPODS=1 -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Taste-generated-files.hmap -I/Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Taste-own-target-headers.hmap -I/Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Taste-all-target-headers.hmap -iquote /Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Taste-project-headers.hmap -I/Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Release-iphonesimulator/include -I/Users/piyushpoddar/Documents/Learning\ Swift/Taste/Pods/Headers -I/Users/piyushpoddar/Documents/Learning\ Swift/Taste/Pods/Headers/AFNetworking -I/Users/piyushpoddar/Documents/Learning\ Swift/Taste/Pods/Headers/JSONModel -I/Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/DerivedSources/i386 -I/Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/DerivedSources -F/Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Release-iphonesimulator -F/Users/piyushpoddar/Documents/FacebookSDK -F/Users/piyushpoddar/Documents/FacebookSDK/FBAudienceNetwork -isystem /Users/piyushpoddar/Documents/Learning\ Swift/Taste/Pods/Headers -isystem /Users/piyushpoddar/Documents/Learning\ Swift/Taste/Pods/Headers/AFNetworking -isystem /Users/piyushpoddar/Documents/Learning\ Swift/Taste/Pods/Headers/JSONModel -include /var/folders/rd/pn8l524d78753shlh5rkkn140000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Taste-Prefix-clvkclpzcwacorectvetqtphwcpl/Taste-Prefix.pch -MMD -MT dependencies -MF /Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/PromotionViewController.d --serialize-diagnostics /Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/PromotionViewController.dia -c /Users/piyushpoddar/Documents/Learning\ Swift/Taste/Taste/PromotionViewController.m -o /Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/PromotionViewController.o36"A59DFF62-D6FC-44CB-AF0D-4D85BC77C9E0-
+bB3B08BA1-AB34-4012-BA0B-BB4779A13BA5
+
+CCompileC build/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/Promotions.o /Users/piyushpoddar/Documents/Learning\ Swift/Taste/Taste/Promotions.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s431290895.892874
+e431290896.286354
+r1
+xCompileC
+xbuild/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/Promotions.o
+x/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/Promotions.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/Promotions.m
+d/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/Promotions.h
+d/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/Promotion.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection77"Compile /Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/Promotions.m198"[1mCompileC[0m build/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/Promotions.o [1mTaste/Promotions.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler35d4e40ffab4b941^d74d4910fab4b941^---0#0#1#-19%DVTDocumentLocation2@78"file:///Users/piyushpoddar/Documents/Learning%20Swift/Taste/Taste/Promotions.m0000000000000000^4165"[1mCompileC[0m build/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/Promotions.o [1mTaste/Promotions.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/piyushpoddar/Documents/Learning Swift/Taste"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DCOCOAPODS=1 -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Taste-generated-files.hmap -I/Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Taste-own-target-headers.hmap -I/Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Taste-all-target-headers.hmap -iquote /Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Taste-project-headers.hmap -I/Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Release-iphonesimulator/include -I/Users/piyushpoddar/Documents/Learning\ Swift/Taste/Pods/Headers -I/Users/piyushpoddar/Documents/Learning\ Swift/Taste/Pods/Headers/AFNetworking -I/Users/piyushpoddar/Documents/Learning\ Swift/Taste/Pods/Headers/JSONModel -I/Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/DerivedSources/i386 -I/Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/DerivedSources -F/Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Release-iphonesimulator -F/Users/piyushpoddar/Documents/FacebookSDK -F/Users/piyushpoddar/Documents/FacebookSDK/FBAudienceNetwork -isystem /Users/piyushpoddar/Documents/Learning\ Swift/Taste/Pods/Headers -isystem /Users/piyushpoddar/Documents/Learning\ Swift/Taste/Pods/Headers/AFNetworking -isystem /Users/piyushpoddar/Documents/Learning\ Swift/Taste/Pods/Headers/JSONModel -include /var/folders/rd/pn8l524d78753shlh5rkkn140000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Taste-Prefix-clvkclpzcwacorectvetqtphwcpl/Taste-Prefix.pch -MMD -MT dependencies -MF /Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/Promotions.d --serialize-diagnostics /Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/Promotions.dia -c /Users/piyushpoddar/Documents/Learning\ Swift/Taste/Taste/Promotions.m -o /Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/Promotions.o36"23B1EA93-8131-495A-B15E-74B0C61A7606-
+bB3B08BA1-AB34-4012-BA0B-BB4779A13BA5
+
+CCompileC build/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/PromotionsViewController.o /Users/piyushpoddar/Documents/Learning\ Swift/Taste/Taste/PromotionsViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s431290897.145730
+e431290897.365221
+r1
+xCompileC
+xbuild/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/PromotionsViewController.o
+x/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/PromotionsViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/PromotionsViewController.m
+d/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/PromotionsViewController.h
+d/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/Snap.h
+d/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/Store.h
+d/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/User.h
+d/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/Promotion.h
+d/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/Promotions.h
+d/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/PromotionViewController.h
+d/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/CameraViewController.h
+d/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/GAIDictionaryBuilder.h
+d/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/GAIEcommerceProduct.h
+d/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/GAIEcommerceProductAction.h
+d/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/GAIEcommercePromotion.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection91"Compile /Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/PromotionsViewController.m226"[1mCompileC[0m build/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/PromotionsViewController.o [1mTaste/PromotionsViewController.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler2d7c2511fab4b941^7dce5d11fab4b941^---0#0#1#-19%DVTDocumentLocation2@92"file:///Users/piyushpoddar/Documents/Learning%20Swift/Taste/Taste/PromotionsViewController.m0000000000000000^4249"[1mCompileC[0m build/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/PromotionsViewController.o [1mTaste/PromotionsViewController.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/piyushpoddar/Documents/Learning Swift/Taste"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DCOCOAPODS=1 -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Taste-generated-files.hmap -I/Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Taste-own-target-headers.hmap -I/Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Taste-all-target-headers.hmap -iquote /Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Taste-project-headers.hmap -I/Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Release-iphonesimulator/include -I/Users/piyushpoddar/Documents/Learning\ Swift/Taste/Pods/Headers -I/Users/piyushpoddar/Documents/Learning\ Swift/Taste/Pods/Headers/AFNetworking -I/Users/piyushpoddar/Documents/Learning\ Swift/Taste/Pods/Headers/JSONModel -I/Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/DerivedSources/i386 -I/Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/DerivedSources -F/Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Release-iphonesimulator -F/Users/piyushpoddar/Documents/FacebookSDK -F/Users/piyushpoddar/Documents/FacebookSDK/FBAudienceNetwork -isystem /Users/piyushpoddar/Documents/Learning\ Swift/Taste/Pods/Headers -isystem /Users/piyushpoddar/Documents/Learning\ Swift/Taste/Pods/Headers/AFNetworking -isystem /Users/piyushpoddar/Documents/Learning\ Swift/Taste/Pods/Headers/JSONModel -include /var/folders/rd/pn8l524d78753shlh5rkkn140000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Taste-Prefix-clvkclpzcwacorectvetqtphwcpl/Taste-Prefix.pch -MMD -MT dependencies -MF /Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/PromotionsViewController.d --serialize-diagnostics /Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/PromotionsViewController.dia -c /Users/piyushpoddar/Documents/Learning\ Swift/Taste/Taste/PromotionsViewController.m -o /Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/PromotionsViewController.o36"9F268D83-D827-428A-98BE-9D0689776F51-
+bB3B08BA1-AB34-4012-BA0B-BB4779A13BA5
+
+CCompileC build/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/Snap.o /Users/piyushpoddar/Documents/Learning\ Swift/Taste/Taste/Snap.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s431290897.158946
+e431290897.287353
+r1
+xCompileC
+xbuild/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/Snap.o
+x/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/Snap.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/Snap.m
+d/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/Snap.h
+d/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/Store.h
+d/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/User.h
+d/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/Promotion.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Compile /Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/Snap.m186"[1mCompileC[0m build/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/Snap.o [1mTaste/Snap.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilercf2c2911fab4b941^ea924911fab4b941^---0#0#1#-19%DVTDocumentLocation2@72"file:///Users/piyushpoddar/Documents/Learning%20Swift/Taste/Taste/Snap.m0000000000000000^4129"[1mCompileC[0m build/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/Snap.o [1mTaste/Snap.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/piyushpoddar/Documents/Learning Swift/Taste"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DCOCOAPODS=1 -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Taste-generated-files.hmap -I/Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Taste-own-target-headers.hmap -I/Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Taste-all-target-headers.hmap -iquote /Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Taste-project-headers.hmap -I/Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Release-iphonesimulator/include -I/Users/piyushpoddar/Documents/Learning\ Swift/Taste/Pods/Headers -I/Users/piyushpoddar/Documents/Learning\ Swift/Taste/Pods/Headers/AFNetworking -I/Users/piyushpoddar/Documents/Learning\ Swift/Taste/Pods/Headers/JSONModel -I/Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/DerivedSources/i386 -I/Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/DerivedSources -F/Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Release-iphonesimulator -F/Users/piyushpoddar/Documents/FacebookSDK -F/Users/piyushpoddar/Documents/FacebookSDK/FBAudienceNetwork -isystem /Users/piyushpoddar/Documents/Learning\ Swift/Taste/Pods/Headers -isystem /Users/piyushpoddar/Documents/Learning\ Swift/Taste/Pods/Headers/AFNetworking -isystem /Users/piyushpoddar/Documents/Learning\ Swift/Taste/Pods/Headers/JSONModel -include /var/folders/rd/pn8l524d78753shlh5rkkn140000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Taste-Prefix-clvkclpzcwacorectvetqtphwcpl/Taste-Prefix.pch -MMD -MT dependencies -MF /Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/Snap.d --serialize-diagnostics /Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/Snap.dia -c /Users/piyushpoddar/Documents/Learning\ Swift/Taste/Taste/Snap.m -o /Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/Snap.o36"518F8ED3-5E6B-4096-ABC4-675619392CF1-
+bB3B08BA1-AB34-4012-BA0B-BB4779A13BA5
+
+CCompileC build/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/Store.o /Users/piyushpoddar/Documents/Learning\ Swift/Taste/Taste/Store.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s431290895.894442
+e431290896.300079
+r1
+xCompileC
+xbuild/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/Store.o
+x/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/Store.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/Store.m
+d/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/Store.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Compile /Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/Store.m188"[1mCompileC[0m build/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/Store.o [1mTaste/Store.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler2c2be50ffab4b941^e4d64c10fab4b941^---0#0#1#-19%DVTDocumentLocation2@73"file:///Users/piyushpoddar/Documents/Learning%20Swift/Taste/Taste/Store.m0000000000000000^4135"[1mCompileC[0m build/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/Store.o [1mTaste/Store.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/piyushpoddar/Documents/Learning Swift/Taste"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DCOCOAPODS=1 -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Taste-generated-files.hmap -I/Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Taste-own-target-headers.hmap -I/Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Taste-all-target-headers.hmap -iquote /Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Taste-project-headers.hmap -I/Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Release-iphonesimulator/include -I/Users/piyushpoddar/Documents/Learning\ Swift/Taste/Pods/Headers -I/Users/piyushpoddar/Documents/Learning\ Swift/Taste/Pods/Headers/AFNetworking -I/Users/piyushpoddar/Documents/Learning\ Swift/Taste/Pods/Headers/JSONModel -I/Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/DerivedSources/i386 -I/Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/DerivedSources -F/Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Release-iphonesimulator -F/Users/piyushpoddar/Documents/FacebookSDK -F/Users/piyushpoddar/Documents/FacebookSDK/FBAudienceNetwork -isystem /Users/piyushpoddar/Documents/Learning\ Swift/Taste/Pods/Headers -isystem /Users/piyushpoddar/Documents/Learning\ Swift/Taste/Pods/Headers/AFNetworking -isystem /Users/piyushpoddar/Documents/Learning\ Swift/Taste/Pods/Headers/JSONModel -include /var/folders/rd/pn8l524d78753shlh5rkkn140000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Taste-Prefix-clvkclpzcwacorectvetqtphwcpl/Taste-Prefix.pch -MMD -MT dependencies -MF /Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/Store.d --serialize-diagnostics /Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/Store.dia -c /Users/piyushpoddar/Documents/Learning\ Swift/Taste/Taste/Store.m -o /Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/Store.o36"65A230BA-1B07-4A92-86F8-76250BC01668-
+bB3B08BA1-AB34-4012-BA0B-BB4779A13BA5
+
+CCompileC build/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/StorePickerController.o /Users/piyushpoddar/Documents/Learning\ Swift/Taste/Taste/StorePickerController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s431290896.980789
+e431290897.145324
+r1
+xCompileC
+xbuild/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/StorePickerController.o
+x/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/StorePickerController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/StorePickerController.m
+d/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/StorePickerController.h
+d/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/Stores.h
+d/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/Store.h
+d/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/CameraViewController.h
+d/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/Snap.h
+d/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/User.h
+d/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/Promotion.h
+d/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/GAIDictionaryBuilder.h
+d/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/GAIEcommerceProduct.h
+d/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/GAIEcommerceProductAction.h
+d/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/GAIEcommercePromotion.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection88"Compile /Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/StorePickerController.m220"[1mCompileC[0m build/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/StorePickerController.o [1mTaste/StorePickerController.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler342ffb10fab4b941^3c842511fab4b941^---0#0#1#-19%DVTDocumentLocation2@89"file:///Users/piyushpoddar/Documents/Learning%20Swift/Taste/Taste/StorePickerController.m0000000000000000^4231"[1mCompileC[0m build/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/StorePickerController.o [1mTaste/StorePickerController.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/piyushpoddar/Documents/Learning Swift/Taste"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DCOCOAPODS=1 -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Taste-generated-files.hmap -I/Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Taste-own-target-headers.hmap -I/Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Taste-all-target-headers.hmap -iquote /Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Taste-project-headers.hmap -I/Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Release-iphonesimulator/include -I/Users/piyushpoddar/Documents/Learning\ Swift/Taste/Pods/Headers -I/Users/piyushpoddar/Documents/Learning\ Swift/Taste/Pods/Headers/AFNetworking -I/Users/piyushpoddar/Documents/Learning\ Swift/Taste/Pods/Headers/JSONModel -I/Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/DerivedSources/i386 -I/Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/DerivedSources -F/Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Release-iphonesimulator -F/Users/piyushpoddar/Documents/FacebookSDK -F/Users/piyushpoddar/Documents/FacebookSDK/FBAudienceNetwork -isystem /Users/piyushpoddar/Documents/Learning\ Swift/Taste/Pods/Headers -isystem /Users/piyushpoddar/Documents/Learning\ Swift/Taste/Pods/Headers/AFNetworking -isystem /Users/piyushpoddar/Documents/Learning\ Swift/Taste/Pods/Headers/JSONModel -include /var/folders/rd/pn8l524d78753shlh5rkkn140000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Taste-Prefix-clvkclpzcwacorectvetqtphwcpl/Taste-Prefix.pch -MMD -MT dependencies -MF /Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/StorePickerController.d --serialize-diagnostics /Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/StorePickerController.dia -c /Users/piyushpoddar/Documents/Learning\ Swift/Taste/Taste/StorePickerController.m -o /Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/StorePickerController.o36"E5BB619C-E791-40B0-BFB3-9B7BC2A845DF-
+bB3B08BA1-AB34-4012-BA0B-BB4779A13BA5
+
+CCompileC build/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/Stores.o /Users/piyushpoddar/Documents/Learning\ Swift/Taste/Taste/Stores.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s431290897.365636
+e431290897.422231
+r1
+xCompileC
+xbuild/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/Stores.o
+x/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/Stores.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/Stores.m
+d/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/Stores.h
+d/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/Store.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Compile /Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/Stores.m190"[1mCompileC[0m build/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/Stores.o [1mTaste/Stores.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler05c35d11fab4b941^57266c11fab4b941^---0#0#1#-19%DVTDocumentLocation2@74"file:///Users/piyushpoddar/Documents/Learning%20Swift/Taste/Taste/Stores.m0000000000000000^4141"[1mCompileC[0m build/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/Stores.o [1mTaste/Stores.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/piyushpoddar/Documents/Learning Swift/Taste"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DCOCOAPODS=1 -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Taste-generated-files.hmap -I/Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Taste-own-target-headers.hmap -I/Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Taste-all-target-headers.hmap -iquote /Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Taste-project-headers.hmap -I/Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Release-iphonesimulator/include -I/Users/piyushpoddar/Documents/Learning\ Swift/Taste/Pods/Headers -I/Users/piyushpoddar/Documents/Learning\ Swift/Taste/Pods/Headers/AFNetworking -I/Users/piyushpoddar/Documents/Learning\ Swift/Taste/Pods/Headers/JSONModel -I/Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/DerivedSources/i386 -I/Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/DerivedSources -F/Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Release-iphonesimulator -F/Users/piyushpoddar/Documents/FacebookSDK -F/Users/piyushpoddar/Documents/FacebookSDK/FBAudienceNetwork -isystem /Users/piyushpoddar/Documents/Learning\ Swift/Taste/Pods/Headers -isystem /Users/piyushpoddar/Documents/Learning\ Swift/Taste/Pods/Headers/AFNetworking -isystem /Users/piyushpoddar/Documents/Learning\ Swift/Taste/Pods/Headers/JSONModel -include /var/folders/rd/pn8l524d78753shlh5rkkn140000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Taste-Prefix-clvkclpzcwacorectvetqtphwcpl/Taste-Prefix.pch -MMD -MT dependencies -MF /Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/Stores.d --serialize-diagnostics /Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/Stores.dia -c /Users/piyushpoddar/Documents/Learning\ Swift/Taste/Taste/Stores.m -o /Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/Stores.o36"5E0763C7-93AA-4B50-850B-5801901E63E3-
+bB3B08BA1-AB34-4012-BA0B-BB4779A13BA5
+
+CCompileC build/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/TasteAppDelegate.o /Users/piyushpoddar/Documents/Learning\ Swift/Taste/Taste/TasteAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s431290896.287886
+e431290896.742479
+r1
+xCompileC
+xbuild/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/TasteAppDelegate.o
+x/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/TasteAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/TasteAppDelegate.m
+d/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/TasteAppDelegate.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FacebookSDK.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBAccessTokenData.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBSession.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBSDKMacros.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBAppCall.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBAppLinkData.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBDialogsData.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBAppEvents.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBCacheDescriptor.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBDialogs.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBLinkShareParams.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBDialogsParams.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBOpenGraphActionParams.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBOpenGraphAction.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBGraphObject.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBPhotoParams.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBError.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBErrorUtility.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBFrictionlessRecipientCache.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBRequest.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBOpenGraphObject.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBRequestConnection.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBWebDialogs.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBFriendPickerViewController.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBGraphUser.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBGraphPerson.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBGraphPlace.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBGraphLocation.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBPeoplePickerViewController.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBGraphObjectPickerViewController.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBViewController.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBInsights.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBLikeControl.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBLoginView.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBTooltipView.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBNativeDialogs.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBOpenGraphActionShareDialogParams.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBShareDialogParams.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBPlacePickerViewController.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBProfilePictureView.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBSessionTokenCachingStrategy.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBSettings.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBShareDialogPhotoParams.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBTaggableFriendPickerViewController.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBUserSettingsViewController.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/NSError+FBError.h
+d/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/loginViewController.h
+d/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/Snap.h
+d/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/Store.h
+d/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/User.h
+d/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/Promotion.h
+d/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/GAIDictionaryBuilder.h
+d/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/GAIEcommerceProduct.h
+d/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/GAIEcommerceProductAction.h
+d/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/GAIEcommercePromotion.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/TasteAppDelegate.m210"[1mCompileC[0m build/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/TasteAppDelegate.o [1mTaste/TasteAppDelegate.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler6edd4910fab4b941^fbcbbe10fab4b941^---0#0#1#-19%DVTDocumentLocation2@84"file:///Users/piyushpoddar/Documents/Learning%20Swift/Taste/Taste/TasteAppDelegate.m0000000000000000^4201"[1mCompileC[0m build/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/TasteAppDelegate.o [1mTaste/TasteAppDelegate.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/piyushpoddar/Documents/Learning Swift/Taste"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DCOCOAPODS=1 -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Taste-generated-files.hmap -I/Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Taste-own-target-headers.hmap -I/Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Taste-all-target-headers.hmap -iquote /Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Taste-project-headers.hmap -I/Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Release-iphonesimulator/include -I/Users/piyushpoddar/Documents/Learning\ Swift/Taste/Pods/Headers -I/Users/piyushpoddar/Documents/Learning\ Swift/Taste/Pods/Headers/AFNetworking -I/Users/piyushpoddar/Documents/Learning\ Swift/Taste/Pods/Headers/JSONModel -I/Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/DerivedSources/i386 -I/Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/DerivedSources -F/Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Release-iphonesimulator -F/Users/piyushpoddar/Documents/FacebookSDK -F/Users/piyushpoddar/Documents/FacebookSDK/FBAudienceNetwork -isystem /Users/piyushpoddar/Documents/Learning\ Swift/Taste/Pods/Headers -isystem /Users/piyushpoddar/Documents/Learning\ Swift/Taste/Pods/Headers/AFNetworking -isystem /Users/piyushpoddar/Documents/Learning\ Swift/Taste/Pods/Headers/JSONModel -include /var/folders/rd/pn8l524d78753shlh5rkkn140000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Taste-Prefix-clvkclpzcwacorectvetqtphwcpl/Taste-Prefix.pch -MMD -MT dependencies -MF /Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/TasteAppDelegate.d --serialize-diagnostics /Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/TasteAppDelegate.dia -c /Users/piyushpoddar/Documents/Learning\ Swift/Taste/Taste/TasteAppDelegate.m -o /Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/TasteAppDelegate.o36"90C21483-B4DA-42C6-952F-089B1308803B-
+bB3B08BA1-AB34-4012-BA0B-BB4779A13BA5
+
+CCompileC build/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/User.o /Users/piyushpoddar/Documents/Learning\ Swift/Taste/Taste/User.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s431290896.837903
+e431290896.980406
+r1
+xCompileC
+xbuild/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/User.o
+x/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/User.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/User.m
+d/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/User.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Compile /Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/User.m186"[1mCompileC[0m build/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/User.o [1mTaste/User.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerc2a6d610fab4b941^26fcfa10fab4b941^---0#0#1#-19%DVTDocumentLocation2@72"file:///Users/piyushpoddar/Documents/Learning%20Swift/Taste/Taste/User.m0000000000000000^4129"[1mCompileC[0m build/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/User.o [1mTaste/User.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/piyushpoddar/Documents/Learning Swift/Taste"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DCOCOAPODS=1 -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Taste-generated-files.hmap -I/Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Taste-own-target-headers.hmap -I/Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Taste-all-target-headers.hmap -iquote /Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Taste-project-headers.hmap -I/Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Release-iphonesimulator/include -I/Users/piyushpoddar/Documents/Learning\ Swift/Taste/Pods/Headers -I/Users/piyushpoddar/Documents/Learning\ Swift/Taste/Pods/Headers/AFNetworking -I/Users/piyushpoddar/Documents/Learning\ Swift/Taste/Pods/Headers/JSONModel -I/Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/DerivedSources/i386 -I/Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/DerivedSources -F/Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Release-iphonesimulator -F/Users/piyushpoddar/Documents/FacebookSDK -F/Users/piyushpoddar/Documents/FacebookSDK/FBAudienceNetwork -isystem /Users/piyushpoddar/Documents/Learning\ Swift/Taste/Pods/Headers -isystem /Users/piyushpoddar/Documents/Learning\ Swift/Taste/Pods/Headers/AFNetworking -isystem /Users/piyushpoddar/Documents/Learning\ Swift/Taste/Pods/Headers/JSONModel -include /var/folders/rd/pn8l524d78753shlh5rkkn140000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Taste-Prefix-clvkclpzcwacorectvetqtphwcpl/Taste-Prefix.pch -MMD -MT dependencies -MF /Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/User.d --serialize-diagnostics /Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/User.dia -c /Users/piyushpoddar/Documents/Learning\ Swift/Taste/Taste/User.m -o /Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/User.o36"C4BD8827-F1AB-423B-AC66-118F7B3182DB-
+bB3B08BA1-AB34-4012-BA0B-BB4779A13BA5
+
+CCompileC build/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/loginViewController.o /Users/piyushpoddar/Documents/Learning\ Swift/Taste/Taste/loginViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s431290895.892577
+e431290896.837421
+r1
+xCompileC
+xbuild/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/loginViewController.o
+x/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/loginViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/loginViewController.m
+d/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/loginViewController.h
+d/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/Snap.h
+d/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/Store.h
+d/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/User.h
+d/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/Promotion.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FacebookSDK.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBAccessTokenData.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBSession.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBSDKMacros.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBAppCall.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBAppLinkData.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBDialogsData.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBAppEvents.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBCacheDescriptor.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBDialogs.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBLinkShareParams.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBDialogsParams.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBOpenGraphActionParams.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBOpenGraphAction.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBGraphObject.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBPhotoParams.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBError.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBErrorUtility.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBFrictionlessRecipientCache.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBRequest.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBOpenGraphObject.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBRequestConnection.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBWebDialogs.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBFriendPickerViewController.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBGraphUser.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBGraphPerson.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBGraphPlace.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBGraphLocation.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBPeoplePickerViewController.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBGraphObjectPickerViewController.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBViewController.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBInsights.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBLikeControl.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBLoginView.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBTooltipView.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBNativeDialogs.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBOpenGraphActionShareDialogParams.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBShareDialogParams.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBPlacePickerViewController.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBProfilePictureView.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBSessionTokenCachingStrategy.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBSettings.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBShareDialogPhotoParams.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBTaggableFriendPickerViewController.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBUserSettingsViewController.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/NSError+FBError.h
+d/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/TasteAppDelegate.h
+d/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/PromotionsViewController.h
+d/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/Promotions.h
+d/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/GAIDictionaryBuilder.h
+d/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/GAIEcommerceProduct.h
+d/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/GAIEcommerceProductAction.h
+d/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/GAIEcommercePromotion.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection86"Compile /Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/loginViewController.m216"[1mCompileC[0m build/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/loginViewController.o [1mTaste/loginViewController.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilerd3a4e40ffab4b941^b6bcd610fab4b941^---0#0#1#-19%DVTDocumentLocation2@87"file:///Users/piyushpoddar/Documents/Learning%20Swift/Taste/Taste/loginViewController.m0000000000000000^4219"[1mCompileC[0m build/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/loginViewController.o [1mTaste/loginViewController.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/piyushpoddar/Documents/Learning Swift/Taste"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DCOCOAPODS=1 -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Taste-generated-files.hmap -I/Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Taste-own-target-headers.hmap -I/Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Taste-all-target-headers.hmap -iquote /Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Taste-project-headers.hmap -I/Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Release-iphonesimulator/include -I/Users/piyushpoddar/Documents/Learning\ Swift/Taste/Pods/Headers -I/Users/piyushpoddar/Documents/Learning\ Swift/Taste/Pods/Headers/AFNetworking -I/Users/piyushpoddar/Documents/Learning\ Swift/Taste/Pods/Headers/JSONModel -I/Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/DerivedSources/i386 -I/Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/DerivedSources -F/Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Release-iphonesimulator -F/Users/piyushpoddar/Documents/FacebookSDK -F/Users/piyushpoddar/Documents/FacebookSDK/FBAudienceNetwork -isystem /Users/piyushpoddar/Documents/Learning\ Swift/Taste/Pods/Headers -isystem /Users/piyushpoddar/Documents/Learning\ Swift/Taste/Pods/Headers/AFNetworking -isystem /Users/piyushpoddar/Documents/Learning\ Swift/Taste/Pods/Headers/JSONModel -include /var/folders/rd/pn8l524d78753shlh5rkkn140000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Taste-Prefix-clvkclpzcwacorectvetqtphwcpl/Taste-Prefix.pch -MMD -MT dependencies -MF /Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/loginViewController.d --serialize-diagnostics /Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/loginViewController.dia -c /Users/piyushpoddar/Documents/Learning\ Swift/Taste/Taste/loginViewController.m -o /Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/loginViewController.o36"B025D29A-8670-47E6-A146-A75AFEA8D5FA-
+bB3B08BA1-AB34-4012-BA0B-BB4779A13BA5
+
+CCompileC build/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/main.o /Users/piyushpoddar/Documents/Learning\ Swift/Taste/Taste/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s431290897.359456
+e431290897.485822
+r1
+xCompileC
+xbuild/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/main.o
+x/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/main.m
+d/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/TasteAppDelegate.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FacebookSDK.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBAccessTokenData.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBSession.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBSDKMacros.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBAppCall.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBAppLinkData.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBDialogsData.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBAppEvents.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBCacheDescriptor.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBDialogs.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBLinkShareParams.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBDialogsParams.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBOpenGraphActionParams.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBOpenGraphAction.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBGraphObject.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBPhotoParams.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBError.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBErrorUtility.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBFrictionlessRecipientCache.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBRequest.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBOpenGraphObject.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBRequestConnection.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBWebDialogs.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBFriendPickerViewController.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBGraphUser.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBGraphPerson.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBGraphPlace.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBGraphLocation.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBPeoplePickerViewController.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBGraphObjectPickerViewController.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBViewController.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBInsights.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBLikeControl.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBLoginView.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBTooltipView.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBNativeDialogs.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBOpenGraphActionShareDialogParams.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBShareDialogParams.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBPlacePickerViewController.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBProfilePictureView.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBSessionTokenCachingStrategy.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBSettings.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBShareDialogPhotoParams.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBTaggableFriendPickerViewController.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/FBUserSettingsViewController.h
+d/Users/piyushpoddar/Documents/FacebookSDK/FacebookSDK.framework/Headers/NSError+FBError.h
+d/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/loginViewController.h
+d/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/Snap.h
+d/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/Store.h
+d/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/User.h
+d/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/Promotion.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection71"Compile /Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/main.m186"[1mCompileC[0m build/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/main.o [1mTaste/main.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler963e5c11fab4b941^24257d11fab4b941^---0#0#1#-19%DVTDocumentLocation2@72"file:///Users/piyushpoddar/Documents/Learning%20Swift/Taste/Taste/main.m0000000000000000^4129"[1mCompileC[0m build/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/main.o [1mTaste/main.m[0m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/piyushpoddar/Documents/Learning Swift/Taste"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DCOCOAPODS=1 -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Taste-generated-files.hmap -I/Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Taste-own-target-headers.hmap -I/Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Taste-all-target-headers.hmap -iquote /Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Taste-project-headers.hmap -I/Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Release-iphonesimulator/include -I/Users/piyushpoddar/Documents/Learning\ Swift/Taste/Pods/Headers -I/Users/piyushpoddar/Documents/Learning\ Swift/Taste/Pods/Headers/AFNetworking -I/Users/piyushpoddar/Documents/Learning\ Swift/Taste/Pods/Headers/JSONModel -I/Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/DerivedSources/i386 -I/Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/DerivedSources -F/Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Release-iphonesimulator -F/Users/piyushpoddar/Documents/FacebookSDK -F/Users/piyushpoddar/Documents/FacebookSDK/FBAudienceNetwork -isystem /Users/piyushpoddar/Documents/Learning\ Swift/Taste/Pods/Headers -isystem /Users/piyushpoddar/Documents/Learning\ Swift/Taste/Pods/Headers/AFNetworking -isystem /Users/piyushpoddar/Documents/Learning\ Swift/Taste/Pods/Headers/JSONModel -include /var/folders/rd/pn8l524d78753shlh5rkkn140000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Taste-Prefix-clvkclpzcwacorectvetqtphwcpl/Taste-Prefix.pch -MMD -MT dependencies -MF /Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/main.dia -c /Users/piyushpoddar/Documents/Learning\ Swift/Taste/Taste/main.m -o /Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/main.o36"0CDE6550-7AFD-49B8-A394-79BA78841533-
+bB3B08BA1-AB34-4012-BA0B-BB4779A13BA5
+
+CCompileStoryboard /Users/piyushpoddar/Documents/Learning\ Swift/Taste/Taste/Base.lproj/Main.storyboard
+r0
+
+CCopyStringsFile /Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Release-iphonesimulator/Taste.app/en.lproj/InfoPlist.strings Taste/en.lproj/InfoPlist.strings
+r0
+
+CCpResource Taste/OpenSans-Bold.ttf build/Release-iphonesimulator/Taste.app/OpenSans-Bold.ttf
+r0
+
+CCpResource Taste/OpenSans-ExtraBold.ttf build/Release-iphonesimulator/Taste.app/OpenSans-ExtraBold.ttf
+r0
+
+CCpResource Taste/OpenSans-Light.ttf build/Release-iphonesimulator/Taste.app/OpenSans-Light.ttf
+r0
+
+CCpResource Taste/OpenSans-Regular.ttf build/Release-iphonesimulator/Taste.app/OpenSans-Regular.ttf
+r0
+
+CCpResource Taste/OpenSans-Semibold.ttf build/Release-iphonesimulator/Taste.app/OpenSans-Semibold.ttf
+r0
+
+CGenerateDSYMFile /Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Release-iphonesimulator/Taste.app.dSYM /Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Release-iphonesimulator/Taste.app/Taste
+r0
+
+CLd /Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Release-iphonesimulator/Taste.app/Taste normal i386
+s431291669.189909
+e431291669.231547
+r0
+xLd
+x/Users/piyushpoddar/Documents/Learning Swift/Taste/build/Release-iphonesimulator/Taste.app/Taste
+xnormal
+xi386
+d/Users/piyushpoddar/Documents/Learning Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/Taste.LinkFileList
+old: library not found for -lPods
+oclang: error: linker command failed with exit code 1 (use -v to see invocation)
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection101"Link /Users/piyushpoddar/Documents/Learning Swift/Taste/build/Release-iphonesimulator/Taste.app/Taste68"[1mLd[0m build/Release-iphonesimulator/Taste.app/Taste normal i3868bc03015fdb4b941^58593b15fdb4b941^-113"ld: library not found for -lPodsclang: error: linker command failed with exit code 1 (use -v to see invocation)2(21%IDEActivityLogMessage2@28"Library not found for -lPods-431291669#0#33#-0#-23%DVTTextDocumentLocation3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#26"Apple Mach-O Linker Notice--2@65"Linker command failed with exit code 1 (use -v to see invocation)-431291669#33#80#-2#-3@-0000000000000000^18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#18446744073709551615#0#25"Apple Mach-O Linker Error--0#0#1#--1813"[1mLd[0m build/Release-iphonesimulator/Taste.app/Taste normal i386    cd "/Users/piyushpoddar/Documents/Learning Swift/Taste"    export IPHONEOS_DEPLOYMENT_TARGET=7.0    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -L/Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Release-iphonesimulator -L/Users/piyushpoddar/Documents/Learning\ Swift/Taste -F/Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Release-iphonesimulator -F/Users/piyushpoddar/Documents/FacebookSDK -F/Users/piyushpoddar/Documents/FacebookSDK/FBAudienceNetwork -filelist /Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/Taste.LinkFileList -Xlinker -objc_abi_version -Xlinker 2 -ObjC -framework CoreGraphics -framework MobileCoreServices -framework Security -framework SystemConfiguration -fobjc-arc -fobjc-link-runtime -Xlinker -no_implicit_dylibs -mios-simulator-version-min=7.0 -lsqlite3.0 -lz -framework SystemConfiguration -lGoogleAnalyticsServices -framework CoreData -framework CoreGraphics -framework FacebookSDK -framework UIKit -framework Foundation -lPods -Xlinker -dependency_info -Xlinker /Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Objects-normal/i386/Taste_dependency_info.dat -o /Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Release-iphonesimulator/Taste.app/Taste36"A47BEAB3-F545-46A2-A679-6A80245B33A6-
+b06CDAA2F-0A3E-4C9E-9D98-A5894ABAFEFB
+
+CPhaseScriptExecution Check\ Pods\ Manifest.lock /Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Script-83070274E4F24984A9BAA3C4.sh
+s431291669.152953
+e431291669.180595
+r1
+xPhaseScriptExecution
+xCheck Pods Manifest.lock
+x/Users/piyushpoddar/Documents/Learning Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Script-83070274E4F24984A9BAA3C4.sh
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection50"Run custom shell script 'Check Pods Manifest.lock'144"[1mPhaseScriptExecution[0m Check\ Pods\ Manifest.lock build/Taste.build/Release-iphonesimulator/Taste.build/Script-83070274E4F24984A9BAA3C4.sh52812715fdb4b941^ac3b2e15fdb4b941^---0#0#1#--365"[1mPhaseScriptExecution[0m Check\ Pods\ Manifest.lock build/Taste.build/Release-iphonesimulator/Taste.build/Script-83070274E4F24984A9BAA3C4.sh    cd "/Users/piyushpoddar/Documents/Learning Swift/Taste"    /bin/sh -c \"/Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Script-83070274E4F24984A9BAA3C4.sh\"36"E5388E5E-5F5B-49FC-A3A2-6896A3F11A4E-
+b06CDAA2F-0A3E-4C9E-9D98-A5894ABAFEFB
+
+CPhaseScriptExecution Copy\ Pods\ Resources /Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Script-704DB7A47BE842BD8528EFFC.sh
+r0
+
+CProcessInfoPlistFile /Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Release-iphonesimulator/Taste.app/Info.plist /Users/piyushpoddar/Documents/Learning\ Swift/Taste/Taste/Taste-Info.plist
+r0
+
+CProcessPCH /var/folders/rd/pn8l524d78753shlh5rkkn140000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Taste-Prefix-clvkclpzcwacorectvetqtphwcpl/Taste-Prefix.pch.pch Taste/Taste-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s431290893.933491
+e431290895.891643
+r1
+xProcessPCH
+x/var/folders/rd/pn8l524d78753shlh5rkkn140000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Taste-Prefix-clvkclpzcwacorectvetqtphwcpl/Taste-Prefix.pch.pch
+xTaste/Taste-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/Taste-Prefix.pch
+d/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/GAI.h
+d/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/GAILogger.h
+d/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/GAITracker.h
+d/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/GAITrackedViewController.h
+d/Users/piyushpoddar/Documents/Learning Swift/Taste/Taste/GAIFields.h
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection33"Precompile Taste/Taste-Prefix.pch290"[1mProcessPCH[0m /var/folders/rd/pn8l524d78753shlh5rkkn140000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Taste-Prefix-clvkclpzcwacorectvetqtphwcpl/Taste-Prefix.pch.pch Taste/Taste-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compilere412ef0dfab4b941^1844e40ffab4b941^---0#0#1#-19%DVTDocumentLocation2@82"file:///Users/piyushpoddar/Documents/Learning%20Swift/Taste/Taste/Taste-Prefix.pch0000000000000000^4204"[1mProcessPCH[0m /var/folders/rd/pn8l524d78753shlh5rkkn140000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Taste-Prefix-clvkclpzcwacorectvetqtphwcpl/Taste-Prefix.pch.pch Taste/Taste-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd "/Users/piyushpoddar/Documents/Learning Swift/Taste"    export LANG=en_US.US-ASCII    export PATH="/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=80 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -fcolor-diagnostics -std=gnu99 -fobjc-arc -fmodules -Wno-trigraphs -fpascal-strings -Os -Wno-missing-field-initializers -Wno-missing-prototypes -Werror=return-type -Wno-implicit-atomic-properties -Werror=deprecated-objc-isa-usage -Werror=objc-root-class -Wno-receiver-is-weak -Wno-arc-repeated-use-of-weak -Wduplicate-method-match -Wno-missing-braces -Wparentheses -Wswitch -Wunused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wempty-body -Wconditional-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wconstant-conversion -Wint-conversion -Wbool-conversion -Wenum-conversion -Wshorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wundeclared-selector -Wno-deprecated-implementations -DCOCOAPODS=1 -DNS_BLOCK_ASSERTIONS=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator7.1.sdk -fexceptions -fasm-blocks -fstrict-aliasing -Wprotocol -Wdeprecated-declarations -g -fvisibility=hidden -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch -mios-simulator-version-min=7.0 -iquote /Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Taste-generated-files.hmap -I/Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Taste-own-target-headers.hmap -I/Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Taste-all-target-headers.hmap -iquote /Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/Taste-project-headers.hmap -I/Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Release-iphonesimulator/include -I/Users/piyushpoddar/Documents/Learning\ Swift/Taste/Pods/Headers -I/Users/piyushpoddar/Documents/Learning\ Swift/Taste/Pods/Headers/AFNetworking -I/Users/piyushpoddar/Documents/Learning\ Swift/Taste/Pods/Headers/JSONModel -I/Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/DerivedSources/i386 -I/Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Taste.build/Release-iphonesimulator/Taste.build/DerivedSources -F/Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Release-iphonesimulator -F/Users/piyushpoddar/Documents/FacebookSDK -F/Users/piyushpoddar/Documents/FacebookSDK/FBAudienceNetwork -isystem /Users/piyushpoddar/Documents/Learning\ Swift/Taste/Pods/Headers -isystem /Users/piyushpoddar/Documents/Learning\ Swift/Taste/Pods/Headers/AFNetworking -isystem /Users/piyushpoddar/Documents/Learning\ Swift/Taste/Pods/Headers/JSONModel --serialize-diagnostics /var/folders/rd/pn8l524d78753shlh5rkkn140000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Taste-Prefix-clvkclpzcwacorectvetqtphwcpl/Taste-Prefix.pch.dia -MMD -MT dependencies -MF /var/folders/rd/pn8l524d78753shlh5rkkn140000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Taste-Prefix-clvkclpzcwacorectvetqtphwcpl/Taste-Prefix.pch.d -c /Users/piyushpoddar/Documents/Learning\ Swift/Taste/Taste/Taste-Prefix.pch -o /var/folders/rd/pn8l524d78753shlh5rkkn140000gp/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/SharedPrecompiledHeaders/Taste-Prefix-clvkclpzcwacorectvetqtphwcpl/Taste-Prefix.pch.pch36"533F737E-D0E1-4A6A-9C24-24A97455AF5F-
+bB3B08BA1-AB34-4012-BA0B-BB4779A13BA5
+
+CTouch /Users/piyushpoddar/Documents/Learning\ Swift/Taste/build/Release-iphonesimulator/Taste.app
+r0
+

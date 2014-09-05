@@ -30,7 +30,7 @@
 - (void) viewDidLoad {
     [super viewDidLoad];
     
-    self.nameLabel.font = [UIFont fontWithName:@"OpenSans-Light" size:11.0];
+    self.nameLabel.font = [UIFont fontWithName:@"OpenSans-Light" size:13.0];
     self.nameLabel.text = [NSString stringWithFormat:@"Gifts for %@:",self.snap.user.first_name];
     // Initialize Refresh Control
     self.refreshControl = [[UIRefreshControl alloc] init];
